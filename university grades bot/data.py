@@ -8,13 +8,13 @@ class UniBot:
     def set_mail(self):
         self.mail = smtplib.SMTP("smtp.gmail.com", 587)
         self.mail.starttls()
-        self.mail.login("obadahpy@gmail.com", "zittlnfvrlwutenl")
+        self.mail.login("obadahpy@gmail.com", "password")
         
     def uni_login(self):
         self.uni = webdriver.Firefox(executable_path = r"C:\Users\obada\Downloads")
         self.uni.get("https://online.deu.edu.tr/")
-        self.uni.find_element(By.ID, "eid").send_keys("2022280026@ogr.deu.edu.tr")
-        self.uni.find_element(By.ID, "pw").send_keys("Ksfaq137")
+        self.uni.find_element(By.ID, "eid").send_keys("email")
+        self.uni.find_element(By.ID, "pw").send_keys("password")
         self.uni.find_element(By.ID, "submit").click()
         
     def uni_scrape(self):
