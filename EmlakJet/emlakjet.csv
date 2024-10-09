@@ -1,0 +1,1471 @@
+category,room,floor,gross,updated,price,location
+Daire,3+1,4. Kat,130 m²,9 Ekim,26.000 TL,İzmir - Karşıyaka - Yalı Mh.
+Daire,3+1,6. Kat,115 m²,9 Ekim,26.500 TL,İzmir - Narlıdere - Ilıca Mh.
+Daire,2+1,3. Kat,75 m²,9 Ekim,20.000 TL,İzmir - Bayraklı - Cengizhan Mh.
+Daire,1+1,2. Kat,65 m²,9 Ekim,19.000 TL,İzmir - Buca - Yaylacık Mh.
+Müstakil Ev,3+1,,120 m²,9 Ekim,20.000 TL,İzmir - Urla - Gülbahçe Mh.
+Daire,1+1,1. Kat,40 m²,9 Ekim,8.250 TL,İzmir - Buca - Şirinkapı Mh.
+Daire,1+1,Düz Giriş (Zemin),45 m²,9 Ekim,12.000 TL,İzmir - Foça - Kazım Dirik Mh.
+Daire,2+1,1. Kat,80 m²,9 Ekim,12.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,1+1,4. Kat,55 m²,9 Ekim,10.000 TL,İzmir - Bornova - Evka 4 Mh.
+Daire,3+1,3. Kat,120 m²,9 Ekim,26.000 TL,İzmir - Karşıyaka - Yalı Mh.
+Daire,3+1,4. Kat,110 m²,9 Ekim,25.000 TL,İzmir - Konak - Güzelyalı Mh.
+Daire,1 Oda,Çatı katı,45 m²,9 Ekim,6.000 TL,İzmir - Bornova - Mevlana Mh.
+Daire,2+1,4. Kat,95 m²,9 Ekim,15.000 TL,İzmir - Dikili - İsmetpaşa Mh.
+Daire,3+1,3. Kat,135 m²,9 Ekim,32.000 TL,İzmir - Karabağlar - Esenyalı Mh.
+Daire,3+1,Düz Giriş (Zemin),130 m²,9 Ekim,20.000 TL,İzmir - Karabağlar - Esentepe Mh.
+Daire,3+1,1. Kat,130 m²,9 Ekim,27.500 TL,İzmir - Narlıdere - Yenikale Mh.
+Daire,3+1,Yüksek giriş,125 m²,9 Ekim,13.250 TL,İzmir - Bornova - Serintepe Mh.
+Daire,1 Oda,4. Kat,60 m²,9 Ekim,35.000 TL,İzmir - Çiğli - Ataşehir Mh.
+Daire,2+1,Bahçe katı,85 m²,9 Ekim,22.000 TL,İzmir - Foça - Mustafa Kemal Atatürk Mh.
+Daire,3+1,Yüksek giriş,130 m²,9 Ekim,27.000 TL,İzmir - Buca - Kozağaç Mh.
+Daire,2+1,2. Kat,110 m²,9 Ekim,17.000 TL,İzmir - Gaziemir - Hürriyet Mh.
+Daire,3+1,5. Kat,135 m²,9 Ekim,32.000 TL,İzmir - Konak - Göztepe Mh.
+Daire,3+1,2. Kat,150 m²,9 Ekim,35.000 TL,İzmir - Karşıyaka - Tersane Mh.
+Yalı Dairesi,3+1,7. Kat,165 m²,9 Ekim,24.000.000 TL,İzmir - Konak - Kültür Mh.
+Daire,3+1,4. Kat,130 m²,9 Ekim,22.000 TL,İzmir - Bornova - Mevlana Mh.
+Daire,2+1,3. Kat,120 m²,9 Ekim,25.000 TL,İzmir - Karşıyaka - Aksoy Mh.
+Daire,2+1,4. Kat,120 m²,9 Ekim,20.000 TL,İzmir - Karabağlar - Yunus Emre Mh.
+Daire,2+1,4. Kat,134 m²,9 Ekim,56.000 TL,İzmir - Karşıyaka - Yalı Mh.
+Daire,2+1,4. Kat,85 m²,9 Ekim,21.000 TL,İzmir - Karşıyaka - İmbatlı Mh.
+Daire,2+1,1. Kat,90 m²,9 Ekim,15.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,3+1,8. Kat,117 m²,9 Ekim,20.000 TL,İzmir - Çiğli - Evka-5 Mh.
+Daire,1+1,3. Kat,55 m²,9 Ekim,14.000 TL,İzmir - Menemen - Gazi Mustafa Kemal Mh.
+Daire,2+1,3. Kat,110 m²,8 Ekim,16.500 TL,İzmir - Bergama - Ertuğrul Mh.
+Daire,2+1,2. Kat,95 m²,8 Ekim,18.000 TL,İzmir - Çiğli - Küçük Çiğli Mh.
+Daire,2+1,2. Kat,90 m²,8 Ekim,23.000 TL,İzmir - Konak - Kahramanlar Mh.
+Daire,1+1,3. Kat,75 m²,9 Ekim,400 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,1+1,3. Kat,75 m²,9 Ekim,450 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,1+1,5. Kat,55 m²,8 Ekim,28.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,1+1,1. Kat,75 m²,8 Ekim,32.500 TL,İzmir - Urla - Atatürk Mh.
+Müstakil Ev,1+1,,70 m²,8 Ekim,13.000 TL,İzmir - Menderes - Kasımpaşa Mh.
+Daire,3+1,1. Kat,175 m²,8 Ekim,25.000 TL,İzmir - Torbalı - Torbalı Mh.
+Daire,3+1,Yüksek giriş,120 m²,9 Ekim,14.000 TL,İzmir - Konak - Kemal Reis Mh.
+Daire,2+1,1. Kat,66 m²,8 Ekim,17.500 TL,İzmir - Foça - Mustafa Kemal Atatürk Mh.
+Daire,1+1,2. Kat,55 m²,8 Ekim,17.500 TL,İzmir - Bornova - Evka 4 Mh.
+Daire,3+1,5. Kat,120 m²,8 Ekim,28.000 TL,İzmir - Karşıyaka - İmbatlı Mh.
+Daire,3+1,4. Kat,150 m²,8 Ekim,23.000 TL,İzmir - Aliağa - Yeni Mh.
+Daire,3+1,4. Kat,125 m²,8 Ekim,24.000 TL,İzmir - Bornova - Atatürk Mh.
+Daire,1+1,1. Kat,50 m²,8 Ekim,19.000 TL,İzmir - Karşıyaka - Şemikler Mh.
+Yazlık,4+1,Villa tipi,250 m²,8 Ekim,55.000 TL,İzmir - Seferihisar - Cumhuriyet Mh.
+Daire,2+1,1. Kat,110 m²,8 Ekim,16.000 TL,İzmir - Buca - Şirinkapı Mh.
+Daire,2+1,2. Kat,90 m²,8 Ekim,22.000 TL,İzmir - Konak - Alsancak Mh.
+Daire,2+1,Bahçe katı,100 m²,8 Ekim,8.000 TL,İzmir - Buca - Kaynaklar Merkez Mh.
+Daire,1+1,3. Kat,50 m²,8 Ekim,13.000 TL,İzmir - Menemen - İnönü Mh.
+Daire,2+1,4. Kat,85 m²,8 Ekim,17.000 TL,İzmir - Bayraklı - Gümüşpala Mh.
+Daire,3+1,4. Kat,125 m²,8 Ekim,25.000 TL,İzmir - Karşıyaka - Nergiz Mh.
+Daire,1+1,3. Kat,75 m²,8 Ekim,36.000 TL,İzmir - Karşıyaka - Mavişehir Mh.
+Daire,3+1,6. Kat,120 m²,8 Ekim,14.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,2+1,1. Kat,120 m²,8 Ekim,15.000 TL,İzmir - Karabağlar - Çalıkuşu Mh.
+Daire,2+1,2. Kat,75 m²,8 Ekim,16.000 TL,İzmir - Menemen - 85. Yıl Cumhuriyet Mh.
+Daire,2+1,3. Kat,100 m²,8 Ekim,17.000 TL,İzmir - Torbalı - Torbalı Mh.
+Daire,2+1,1. Kat,95 m²,8 Ekim,25.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,2+1,6. Kat,110 m²,8 Ekim,25.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,3+1,Çatı Dubleks,110 m²,8 Ekim,25.000 TL,İzmir - Seferihisar - Turabiye Mh.
+Daire,2+1,2. Kat,90 m²,8 Ekim,21.000 TL,İzmir - Buca - Laleli Mh.
+Daire,1+1,Kot 2 (-2). Kat,80 m²,8 Ekim,15.000 TL,İzmir - Konak - Barbaros Mh.
+Daire,1+1,1. Kat,45 m²,8 Ekim,17.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,1+1,Yüksek giriş,45 m²,8 Ekim,22.000 TL,İzmir - Karşıyaka - Şemikler Mh.
+Daire,2+1,2. Kat,110 m²,8 Ekim,14.000 TL,İzmir - Karabağlar - Refet Bele Mh.
+Daire,2+1,3. Kat,95 m²,9 Ekim,16.500 TL,İzmir - Karşıyaka - Zübeyde Hanım Mh.
+Daire,2+1,5. Kat,85 m²,8 Ekim,16.000 TL,İzmir - Bornova - Evka 4 Mh.
+Daire,3+1,3. Kat,100 m²,8 Ekim,25.000 TL,İzmir - Karabağlar - Esenyalı Mh.
+Daire,2+1,Yüksek giriş,120 m²,8 Ekim,19.000 TL,İzmir - Menemen - Kasımpaşa Mh.
+Daire,3+1,Yüksek giriş,150 m²,8 Ekim,20.000 TL,İzmir - Menderes - Cüneytbey Mh.
+Daire,1+1,1. Kat,50 m²,8 Ekim,14.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+1,3. Kat,130 m²,8 Ekim,23.000 TL,İzmir - Buca - Barış Mh.
+Daire,3+1,2. Kat,130 m²,8 Ekim,18.000 TL,İzmir - Buca - Barış Mh.
+Daire,3+1,Çatı katı,130 m²,7 Ekim,25.000 TL,İzmir - Karabağlar - Esenyalı Mh.
+Daire,2+1,Bahçe katı,95 m²,9 Ekim,40.000 TL,İzmir - Urla - Denizli Mh.
+Daire,3+1,2. Kat,120 m²,7 Ekim,2.500.000 TL,İzmir - Menemen - Mermerli Mh.
+Daire,2+1,Yüksek giriş,92 m²,7 Ekim,15.000 TL,İzmir - Çiğli - Şirintepe Mh.
+Daire,1+1,Yüksek giriş,55 m²,9 Ekim,13.500 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,2. Kat,100 m²,8 Ekim,14.000 TL,İzmir - Bergama - Bahçelievler Mh.
+Daire,2+1,Bahçe katı,95 m²,9 Ekim,22.000 TL,İzmir - Çiğli - Köyiçi Mh.
+Daire,3+1,2. Kat,90 m²,7 Ekim,20.000 TL,İzmir - Menderes - Cüneytbey Mh.
+Daire,2+1,4. Kat,100 m²,7 Ekim,24.000 TL,İzmir - Karabağlar - Esenyalı Mh.
+Daire,2+1,1. Kat,75 m²,7 Ekim,30.000 TL,İzmir - Çeşme - Reisdere Mh.
+Daire,2+1,Çatı katı,85 m²,7 Ekim,34.500 TL,İzmir - Karşıyaka - Şemikler Mh.
+Daire,2+1,Çatı katı,165 m²,7 Ekim,13.000 TL,İzmir - Kemalpaşa - Sütçüler Mh.
+Daire,2+1,Yüksek giriş,95 m²,9 Ekim,18.500 TL,İzmir - Karabağlar - Yunus Emre Mh.
+Daire,1+1,3. Kat,75 m²,9 Ekim,500 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,3+1,3. Kat,136 m²,7 Ekim,20.000 TL,İzmir - Karabağlar - Tahsin Yazıcı Mh.
+Daire,3+1,Kot 3 (-3). Kat,130 m²,7 Ekim,30.000 TL,İzmir - Aliağa - Kültür Mh.
+Daire,3+1,2. Kat,135 m²,7 Ekim,13.000 TL,İzmir - Bergama - Gaziosmanpaşa Mh.
+Daire,1+1,Yüksek giriş,65 m²,7 Ekim,27.500 TL,İzmir - Çeşme - İsmet İnönü Mh.
+Daire,2+1,Kot 4 (-4). Kat,85 m²,7 Ekim,25.000 TL,İzmir - Aliağa - Kültür Mh.
+Daire,2+1,3. Kat,100 m²,7 Ekim,13.000 TL,İzmir - Çiğli - Evka-5 Mh.
+Daire,3+1,2. Kat,130 m²,9 Ekim,22.000 TL,İzmir - Buca - Ufuk Mh.
+Daire,2+1,3. Kat,75 m²,7 Ekim,15.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,3+1,3. Kat,110 m²,7 Ekim,15.000 TL,İzmir - Karabağlar - Bahçelievler Mh.
+Daire,2+1,1. Kat,80 m²,9 Ekim,15.000 TL,İzmir - Bergama - Fatih Mh.
+Daire,4+1,Bahçe katı,180 m²,7 Ekim,17.000 TL,İzmir - Torbalı - Torbalı Mh.
+Daire,3+1,2. Kat,115 m²,7 Ekim,4.150.000 TL,İzmir - Bergama - İslamsaray Mh.
+Daire,1+1,Düz Giriş (Zemin),64 m²,7 Ekim,17.000 TL,İzmir - Bornova - İnönü Mh.
+Daire,3+1,3. Kat,130 m²,7 Ekim,25.000 TL,İzmir - Bornova - İnönü Mh.
+Daire,2+0,8. Kat,100 m²,7 Ekim,26.000 TL,İzmir - Karabağlar - Esenyalı Mh.
+Daire,3+1,3. Kat,145 m²,7 Ekim,33.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,Stüdyo,Yüksek giriş,40 m²,7 Ekim,13.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,2+1,2. Kat,110 m²,7 Ekim,19.000 TL,İzmir - Bayraklı - Onur Mh.
+Daire,Stüdyo,Yüksek giriş,45 m²,7 Ekim,13.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,1+1,2. Kat,55 m²,7 Ekim,25.000 TL,İzmir - Karşıyaka - Yalı Mh.
+Daire,3+1,3. Kat,100 m²,7 Ekim,20.000 TL,İzmir - Çiğli - Evka-5 Mh.
+Daire,2+1,Çatı Dubleks,130 m²,8 Ekim,29.000 TL,İzmir - Gaziemir - Dokuz Eylül Mh.
+Daire,2+1,3. Kat,100 m²,7 Ekim,25.000 TL,İzmir - Bornova - Erzene Mh.
+Daire,1.5+1,1. Kat,60 m²,8 Ekim,17.500 TL,İzmir - Menemen - 9 Eylül Mh.
+Daire,2+1,2. Kat,92 m²,7 Ekim,22.500 TL,İzmir - Menderes - Kemalpaşa Mh.
+Daire,2+1,1. Kat,105 m²,7 Ekim,12.000 TL,İzmir - Karabağlar - Selvili Mh.
+Daire,2+1,2. Kat,110 m²,7 Ekim,13.000 TL,İzmir - Buca - Göksu Mh.
+Daire,3+1,Kot 1 (-1). Kat,130 m²,7 Ekim,29.000 TL,İzmir - Karşıyaka - Bahçelievler Mh.
+Daire,3+1,2. Kat,140 m²,7 Ekim,20.000 TL,İzmir - Menderes - Mithatpaşa Mh.
+Daire,3+1,Yüksek giriş,160 m²,7 Ekim,36.000 TL,İzmir - Menderes - Altıntepe Mh.
+Daire,2+1,3. Kat,85 m²,8 Ekim,20.000 TL,İzmir - Dikili - İsmetpaşa Mh.
+Daire,2+1,2. Kat,85 m²,7 Ekim,17.500 TL,İzmir - Seferihisar - Cumhuriyet Mh.
+Daire,3+1,Kot 4 (-4). Kat,130 m²,6 Ekim,23.000 TL,İzmir - Karabağlar - Maliyeciler Mh.
+Daire,2+1,22. Kat,90 m²,6 Ekim,27.500 TL,İzmir - Bornova - Koşukavak Mh.
+Daire,3+1,4. Kat,110 m²,6 Ekim,18.000 TL,İzmir - Seferihisar - Camikebir Mh.
+Daire,1+1,5. Kat,55 m²,8 Ekim,21.000 TL,İzmir - Bayraklı - Körfez Mh.
+Daire,3+1,2. Kat,150 m²,6 Ekim,24.000 TL,İzmir - Çiğli - Yakakent Mh.
+Daire,2+1,5. Kat,105 m²,7 Ekim,15.000 TL,İzmir - Menderes - Cüneytbey Mh.
+Daire,3+1,3. Kat,120 m²,6 Ekim,14.000 TL,İzmir - Karabağlar - Bahar Mh.
+Daire,2+1,2. Kat,90 m²,6 Ekim,20.000 TL,İzmir - Buca - Yiğitler Mh.
+Daire,3+1,1. Kat,125 m²,6 Ekim,26.500 TL,İzmir - Buca - Menderes Mh.
+Daire,2+1,1. Kat,80 m²,9 Ekim,20.000 TL,İzmir - Dikili - Gazipaşa Mh.
+Daire,2+1,2. Kat,100 m²,6 Ekim,15.000 TL,İzmir - Gaziemir - Hürriyet Mh.
+Daire,3+1,2. Kat,140 m²,9 Ekim,22.500 TL,İzmir - Tire - Fatih Mh.
+Villa,3+1,,135 m²,9 Ekim,60.000 TL,İzmir - Urla - Denizli Mh.
+Daire,3+1,1. Kat,150 m²,6 Ekim,32.500 TL,İzmir - Bornova - Yeşilova Mh.
+Daire,3+1,2. Kat,171 m²,6 Ekim,30.000 TL,İzmir - Karabağlar - Tahsin Yazıcı Mh.
+Daire,3+1,Düz Giriş (Zemin),186 m²,9 Ekim,22.000 TL,İzmir - Karabağlar - Metin Oktay Mh.
+Daire,2+1,Yüksek giriş,100 m²,9 Ekim,15.000 TL,İzmir - Menderes - Gazipaşa Mh.
+Daire,3+1,3. Kat,165 m²,9 Ekim,25.000 TL,İzmir - Menderes - Kemalpaşa Mh.
+Daire,2+1,3. Kat,70 m²,9 Ekim,22.500 TL,İzmir - Menderes - Cüneytbey Mh.
+Daire,1+1,1. Kat,50 m²,9 Ekim,16.000 TL,İzmir - Menderes - Cüneytbey Mh.
+Daire,3+1,Yüksek giriş,145 m²,9 Ekim,30.000 TL,İzmir - Menderes - Cüneytbey Mh.
+Daire,2+1,9. Kat,105 m²,9 Ekim,23.000 TL,İzmir - Menemen - Uğur Mumcu Mh.
+Daire,3+1,4. Kat,130 m²,9 Ekim,22.000 TL,İzmir - Bornova - Mevlana Mh.
+Daire,Stüdyo,Düz Giriş (Zemin),120 m²,9 Ekim,25.000 TL,İzmir - Bornova - Mevlana Mh.
+Daire,1+1,Düz Giriş (Zemin),70 m²,9 Ekim,23.000 TL,İzmir - Bornova - Mevlana Mh.
+Daire,1+1,Düz Giriş (Zemin),70 m²,9 Ekim,23.000 TL,İzmir - Bornova - Mevlana Mh.
+Daire,3+1,3. Kat,155 m²,9 Ekim,15.000 TL,İzmir - Bornova - Gürpınar Mh.
+Daire,Stüdyo,1. Kat,50 m²,9 Ekim,18.000 TL,İzmir - Bornova - Mevlana Mh.
+Daire,2+1,1. Kat,70 m²,9 Ekim,21.000 TL,İzmir - Bornova - Mevlana Mh.
+Daire,2+1,3. Kat,90 m²,9 Ekim,26.000 TL,İzmir - Bornova - Mevlana Mh.
+Daire,Stüdyo,Düz Giriş (Zemin),45 m²,9 Ekim,18.000 TL,İzmir - Bornova - Mevlana Mh.
+Daire,Stüdyo,1. Kat,55 m²,9 Ekim,18.000 TL,İzmir - Bornova - Mevlana Mh.
+Daire,3+1,5. Kat,150 m²,9 Ekim,30.000 TL,İzmir - Bayraklı - Körfez Mh.
+Daire,1+1,3. Kat,60 m²,9 Ekim,23.500 TL,İzmir - Bornova - Mevlana Mh.
+Daire,2+1,3. Kat,85 m²,9 Ekim,22.000 TL,İzmir - Bornova - Mevlana Mh.
+Daire,1+1,3. Kat,50 m²,9 Ekim,18.500 TL,İzmir - Bornova - Mevlana Mh.
+Daire,1+1,Yüksek giriş,75 m²,9 Ekim,15.000 TL,İzmir - Dikili - İsmetpaşa Mh.
+Daire,3+0,3. Kat,80 m²,9 Ekim,500 TL,İzmir - Buca - Adatepe Mh.
+Villa,3+1,,210 m²,9 Ekim,45.000 TL,İzmir - Urla - İskele Mh.
+Müstakil Ev,2+1,,106 m²,9 Ekim,20.000 TL,İzmir - Urla - Kuşçular Mh.
+Daire,3+1,1. Kat,130 m²,9 Ekim,35.000 TL,İzmir - Balçova - Korutürk Mh.
+Daire,3+1,4. Kat,142 m²,9 Ekim,38.000 TL,İzmir - Karşıyaka - Tuna Mh.
+Daire,2+1,Düz Giriş (Zemin),100 m²,9 Ekim,12.000 TL,İzmir - Menemen - Yeşil Pınar Mh.
+Daire,3+1,2. Kat,200 m²,9 Ekim,90.000 TL,İzmir - Konak - Çankaya Mh.
+Daire,2+1,2. Kat,114 m²,9 Ekim,28.000 TL,İzmir - Çiğli - Yakakent Mh.
+Daire,1+1,7. Kat,55 m²,9 Ekim,18.000 TL,İzmir - Karşıyaka - İnönü Mh.
+Daire,2+1,19. Kat,115 m²,9 Ekim,50.000 TL,İzmir - Konak - Halkapınar Mh.
+Müstakil Ev,3+1,,140 m²,9 Ekim,45.000 TL,İzmir - Foça - Atatürk Mh.
+Bina,3+1,,125 m²,9 Ekim,19.000 TL,İzmir - Menemen - Gazi Mh.
+Daire,3+1,3. Kat,142 m²,9 Ekim,30.000 TL,İzmir - Karşıyaka - Yalı Mh.
+Daire,3+1,2. Kat,110 m²,9 Ekim,28.000 TL,İzmir - Karşıyaka - Donanmacı Mh.
+Daire,3+1,Düz Giriş (Zemin),160 m²,9 Ekim,25.000 TL,İzmir - Buca - Kozağaç Mh.
+Daire,3+1,7. Kat,140 m²,9 Ekim,35.000 TL,İzmir - Karşıyaka - Örnekköy Mh.
+Daire,3+1,2. Kat,110 m²,9 Ekim,30.000 TL,İzmir - Bornova - Erzene Mh.
+Daire,3+2,2. Kat,105 m²,9 Ekim,23.000 TL,İzmir - Dikili - Çandarlı Mh.
+Daire,3+1,5. Kat,125 m²,9 Ekim,20.000 TL,İzmir - Dikili - İsmetpaşa Mh.
+Müstakil Ev,2+1,,100 m²,9 Ekim,20.000 TL,İzmir - Dikili - Bademli Mh.
+Villa,3+1,,185 m²,9 Ekim,50.000 TL,İzmir - Dikili - Çandarlı Mh.
+Daire,3+1,Çatı katı,125 m²,9 Ekim,33.000 TL,İzmir - Dikili - İsmetpaşa Mh.
+Daire,2+1,2. Kat,100 m²,9 Ekim,21.000 TL,İzmir - Dikili - Gazipaşa Mh.
+Daire,3+1,2. Kat,130 m²,9 Ekim,22.000 TL,İzmir - Dikili - Gazipaşa Mh.
+Villa,3+1,,450 m²,9 Ekim,350.000 TL,İzmir - Çeşme - Çiftlik Mh.
+Daire,3+1,Bahçe dublex,120 m²,8 Ekim,55.000 TL,İzmir - Aliağa - Yalı Mh.
+Daire,3+1,3. Kat,145 m²,8 Ekim,46.000 TL,İzmir - Karşıyaka - Bostanlı Mh.
+Daire,3+1,2. Kat,140 m²,8 Ekim,35.000 TL,İzmir - Buca - Fırat Mh.
+Daire,1 Oda,3. Kat,50 m²,7 Ekim,15.000 TL,İzmir - Menemen - Gazi Mustafa Kemal Mh.
+Daire,2+1,1. Kat,100 m²,6 Ekim,20.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+1,8. Kat,145 m²,9 Ekim,37.000 TL,İzmir - Konak - Alsancak Mh.
+Daire,1+1,3. Kat,75 m²,9 Ekim,18.000 TL,İzmir - Buca - Atatürk Mh.
+Daire,3+1,3. Kat,150 m²,9 Ekim,11.500 TL,İzmir - Gaziemir - Aktepe Mh.
+Daire,3+1,3. Kat,135 m²,9 Ekim,25.000 TL,İzmir - Karabağlar - Doğanay Mh.
+Daire,3+1,1. Kat,150 m²,5 Ekim,21.000 TL,İzmir - Bayraklı - Postacılar Mh.
+Daire,2+1,2. Kat,100 m²,5 Ekim,12.000 TL,İzmir - Bayraklı - Muhittin Erener Mh.
+Daire,3+1,Düz Giriş (Zemin),120 m²,5 Ekim,15.000 TL,İzmir - Bayraklı - Çay Mh.
+Daire,2+1,Çatı katı,105 m²,5 Ekim,12.000 TL,İzmir - Buca - Çamlıpınar Mh.
+Daire,4+1,2. Kat,240 m²,5 Ekim,75.000 TL,İzmir - Bornova - Erzene Mh.
+Daire,2+1,Yüksek giriş,90 m²,7 Ekim,16.000 TL,İzmir - Bornova - Yıldırım Beyazıt Mh.
+Daire,2+1,3. Kat,100 m²,5 Ekim,14.000 TL,İzmir - Karabağlar - Selvili Mh.
+Daire,2+1,2. Kat,110 m²,5 Ekim,10.000 TL,İzmir - Karabağlar - Refet Bele Mh.
+Daire,3+0,3. Kat,80 m²,9 Ekim,500 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+0,3. Kat,80 m²,5 Ekim,450 TL,İzmir - Buca - Adatepe Mh.
+Daire,1+1,Düz Giriş (Zemin),90 m²,5 Ekim,12.000 TL,İzmir - Konak - Altıntaş Mh.
+Daire,3+1,1. Kat,125 m²,5 Ekim,23.000 TL,İzmir - Buca - Kozağaç Mh.
+Daire,3+1,2. Kat,135 m²,5 Ekim,17.500 TL,İzmir - Buca - Dicle Mh.
+Daire,3+1,3. Kat,125 m²,5 Ekim,25.000 TL,İzmir - Karşıyaka - Şemikler Mh.
+Daire,3+1,2. Kat,135 m²,8 Ekim,27.000 TL,İzmir - Menderes - Kasımpaşa Mh.
+Daire,2+1,Bahçe katı,100 m²,5 Ekim,16.000 TL,İzmir - Güzelbahçe - Yelki Mh.
+Daire,1+1,Düz Giriş (Zemin),60 m²,5 Ekim,15.000 TL,İzmir - Seferihisar - Atatürk Mh.
+Daire,2+1,3. Kat,85 m²,8 Ekim,22.000 TL,İzmir - Bornova - Mevlana Mh.
+Daire,2+1,Villa tipi,150 m²,5 Ekim,30.000 TL,İzmir - Seferihisar - Atatürk Mh.
+Daire,1+1,3. Kat,60 m²,8 Ekim,23.500 TL,İzmir - Bornova - Mevlana Mh.
+Daire,3+1,4. Kat,145 m²,5 Ekim,22.000 TL,İzmir - Karşıyaka - Örnekköy Mh.
+Daire,2+1,1. Kat,90 m²,5 Ekim,22.500 TL,İzmir - Bornova - Mevlana Mh.
+Daire,3+1,5. Kat,130 m²,5 Ekim,24.000 TL,İzmir - Karşıyaka - Zübeyde Hanım Mh.
+Daire,1+1,1. Kat,60 m²,5 Ekim,12.000 TL,İzmir - Buca - Karanfil Mh.
+Daire,3+1,Kot 1 (-1). Kat,120 m²,5 Ekim,3.500.000 TL,İzmir - Buca - Aydoğdu Mh.
+Daire,3+1,Yüksek giriş,140 m²,5 Ekim,14.000 TL,İzmir - Karabağlar - Günaltay Mh.
+Daire,3+1,2. Kat,195 m²,5 Ekim,35.000 TL,İzmir - Konak - Göztepe Mh.
+Daire,3+1,3. Kat,165 m²,9 Ekim,23.000 TL,İzmir - Bornova - İnönü Mh.
+Daire,3+1,2. Kat,130 m²,5 Ekim,21.000 TL,İzmir - Konak - Altıntaş Mh.
+Villa,4+1,,170 m²,8 Ekim,75.000 TL,İzmir - Urla - İskele Mh.
+Daire,3+1,3. Kat,150 m²,5 Ekim,22.000 TL,İzmir - Balçova - Eğitim Mh.
+Daire,1+1,2. Kat,55 m²,5 Ekim,15.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,3+1,6. Kat,120 m²,5 Ekim,22.000 TL,İzmir - Çiğli - Evka-5 Mh.
+Daire,2+1,3. Kat,120 m²,9 Ekim,19.000 TL,İzmir - Bornova - Evka 3 Mh.
+Daire,2+1,4. Kat,80 m²,8 Ekim,16.500 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,2. Kat,95 m²,5 Ekim,25.000 TL,İzmir - Seferihisar - Çolak İbrahim Bey Mh.
+Daire,3+1,2. Kat,125 m²,5 Ekim,26.000 TL,İzmir - Gaziemir - Gazi Mh.
+Daire,3+1,2. Kat,160 m²,5 Ekim,35.000 TL,İzmir - Gaziemir - Gazi Mh.
+Daire,2+1,2. Kat,120 m²,5 Ekim,26.000 TL,İzmir - Menemen - Kemal Atatürk Mh.
+Daire,3+1,2. Kat,115 m²,5 Ekim,27.000 TL,İzmir - Karabağlar - Poligon Mh.
+Daire,3+1,5. Kat,120 m²,5 Ekim,18.000 TL,İzmir - Menemen - Mermerli Mh.
+Daire,3+1,Yüksek giriş,167 m²,6 Ekim,40.000 TL,İzmir - Balçova - Fevzi Çakmak Mh.
+Daire,2+1,Bahçe katı,80 m²,9 Ekim,15.000 TL,İzmir - Dikili - Gazipaşa Mh.
+Daire,1 Oda,Yüksek giriş,32 m²,5 Ekim,13.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,2+1,Düz Giriş (Zemin),80 m²,9 Ekim,20.000 TL,İzmir - Çiğli - Atatürk Mh.
+Daire,3+1,4. Kat,150 m²,5 Ekim,27.500 TL,İzmir - Buca - Yenigün Mh.
+Daire,2+1,1. Kat,90 m²,5 Ekim,15.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,2+1,4. Kat,100 m²,5 Ekim,20.000 TL,İzmir - Karşıyaka - Bostanlı Mh.
+Daire,3+0,3. Kat,80 m²,5 Ekim,300 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+0,3. Kat,80 m²,5 Ekim,450 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+1,3. Kat,120 m²,5 Ekim,35.000 TL,İzmir - Güzelbahçe - Yelki Mh.
+Daire,2+1,2. Kat,98 m²,9 Ekim,25.800 TL,İzmir - Karşıyaka - Yalı Mh.
+Daire,2+1,Düz Giriş (Zemin),105 m²,9 Ekim,18.000 TL,İzmir - Bayraklı - Osmangazi Mh.
+Daire,3+1,3. Kat,120 m²,4 Ekim,20.000 TL,İzmir - Çiğli - Yakakent Mh.
+Daire,4+1,3. Kat,180 m²,4 Ekim,60.000 TL,İzmir - Menderes - Görece Cumhuriyet Mh.
+Daire,3+1,4. Kat,130 m²,4 Ekim,18.500 TL,İzmir - Torbalı - Torbalı Mh.
+Daire,1+1,1. Kat,34 m²,4 Ekim,13.000 TL,İzmir - Buca - Menderes Mh.
+Villa,5+2,,650 m²,5 Ekim,75.000 TL,İzmir - Çeşme - Musalla Mh.
+Villa,4+1,,250 m²,5 Ekim,50.000 TL,İzmir - Çeşme - Alaçatı Mh.
+Daire,3+1,Düz Giriş (Zemin),160 m²,4 Ekim,25.000 TL,İzmir - Buca - Kozağaç Mh.
+Villa,3+1,,180 m²,4 Ekim,40.000 TL,İzmir - Seferihisar - Ulamış Mh.
+Villa,3+1,,200 m²,4 Ekim,40.000 TL,İzmir - Çeşme - Alaçatı Mh.
+Daire,2+1,Müstakil,80 m²,4 Ekim,7.000 TL,İzmir - Bayraklı - Onur Mh.
+Daire,2+1,5. Kat,100 m²,6 Ekim,15.000 TL,İzmir - Tire - Kurtuluş Mh.
+Daire,Stüdyo,2. Kat,80 m²,4 Ekim,17.000 TL,İzmir - Bayraklı - Adalet Mh.
+Daire,2+1,2. Kat,80 m²,4 Ekim,18.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,3+1,Kot 3 (-3). Kat,120 m²,9 Ekim,23.000 TL,İzmir - Balçova - Eğitim Mh.
+Daire,2+1,3. Kat,100 m²,4 Ekim,13.000 TL,İzmir - Buca - Çamlıkule Mh.
+Daire,2+0,2. Kat,60 m²,4 Ekim,19.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,Stüdyo,2. Kat,30 m²,8 Ekim,18.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,3+1,1. Kat,125 m²,4 Ekim,23.000 TL,İzmir - Buca - Kozağaç Mh.
+Daire,3+1,4. Kat,130 m²,4 Ekim,24.000 TL,İzmir - Buca - Menderes Mh.
+Daire,2+1,Villa tipi,125 m²,4 Ekim,30.000 TL,İzmir - Aliağa - Bozköy Mh.
+Daire,2+1,Bahçe katı,85 m²,4 Ekim,25.000 TL,İzmir - Foça - Mustafa Kemal Atatürk Mh.
+Daire,2+1,14. Kat,110 m²,4 Ekim,30.000 TL,İzmir - Bornova - Yeşilova Mh.
+Daire,2+1,Yüksek giriş,80 m²,4 Ekim,18.000 TL,İzmir - Konak - Kocatepe Mh.
+Daire,Stüdyo,1. Kat,61 m²,8 Ekim,21.000 TL,İzmir - Bornova - Ergene Mh.
+Daire,3+1,3. Kat,130 m²,4 Ekim,15.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,2+1,Kot 1 (-1). Kat,95 m²,8 Ekim,20.000 TL,İzmir - Menemen - Kemal Atatürk Mh.
+Daire,2+1,2. Kat,80 m²,4 Ekim,30.000 TL,İzmir - Çeşme - Musalla Mh.
+Daire,1+1,1. Kat,55 m²,9 Ekim,15.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+1,10. Kat,154 m²,4 Ekim,26.500 TL,İzmir - Bayraklı - Manavkuyu Mh.
+Daire,3+1,3. Kat,285 m²,4 Ekim,13.500 TL,İzmir - Bergama - Bahçelievler Mh.
+Daire,2+1,9. Kat,85 m²,4 Ekim,18.500 TL,İzmir - Çiğli - Evka-5 Mh.
+Daire,2+1,Yüksek giriş,90 m²,8 Ekim,3.250.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,2+1,2. Kat,115 m²,4 Ekim,15.000 TL,İzmir - Torbalı - Tepeköy Mh.
+Daire,2+1,Müstakil,150 m²,4 Ekim,18.000 TL,İzmir - Balçova - Eğitim Mh.
+Daire,3+0,3. Kat,80 m²,5 Ekim,400 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+0,3. Kat,80 m²,4 Ekim,300 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,1. Kat,95 m²,4 Ekim,17.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,1 Oda,3. Kat,50 m²,4 Ekim,14.000 TL,İzmir - Menemen - İnönü Mh.
+Daire,3+1,4. Kat,130 m²,8 Ekim,21.000 TL,İzmir - Karşıyaka - Örnekköy Mh.
+Daire,3+1,2. Kat,180 m²,4 Ekim,25.000 TL,İzmir - Buca - Gaziler Mh.
+Residence,1+1,5. Kat,50 m²,4 Ekim,40.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,4+1,3. Kat,150 m²,9 Ekim,25.000 TL,İzmir - Bayraklı - Org. Nafiz Gürman Mh.
+Daire,2+1,6. Kat,115 m²,9 Ekim,35.000 TL,İzmir - Karşıyaka - Bahariye Mh.
+Daire,3+1,2. Kat,120 m²,4 Ekim,20.000 TL,İzmir - Buca - Dumlupınar Mh.
+Daire,3+1,Yüksek giriş,125 m²,4 Ekim,20.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+1,2. Kat,150 m²,4 Ekim,25.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,1+1,3. Kat,45 m²,4 Ekim,14.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+1,3. Kat,135 m²,4 Ekim,15.500 TL,İzmir - Bergama - Fatih Mh.
+Daire,3+1,Yüksek giriş,110 m²,4 Ekim,18.000 TL,İzmir - Buca - Menderes Mh.
+Daire,2+1,3. Kat,80 m²,4 Ekim,16.000 TL,İzmir - Buca - Yaylacık Mh.
+Villa,4+1,,390 m²,3 Ekim,85.000 TL,İzmir - Urla - Denizli Mh.
+Daire,2.5+1,3. Kat,110 m²,9 Ekim,18.000 TL,İzmir - Karabağlar - Selvili Mh.
+Daire,2+1,5. Kat,115 m²,3 Ekim,20.000 TL,İzmir - Karşıyaka - Bahariye Mh.
+Daire,3+1,3. Kat,170 m²,4 Ekim,20.000 TL,İzmir - Buca - İnönü Mh.
+Villa,3+1,,220 m²,3 Ekim,60.000 TL,İzmir - Menderes - Kemalpaşa Mh.
+Villa,4+1,,220 m²,3 Ekim,55.000 TL,İzmir - Menderes - Kemalpaşa Mh.
+Daire,3+1,2. Kat,110 m²,3 Ekim,16.500 TL,İzmir - Bornova - Mevlana Mh.
+Daire,2+1,2. Kat,80 m²,3 Ekim,18.000 TL,İzmir - Karabağlar - Metin Oktay Mh.
+Daire,3+1,2. Kat,110 m²,3 Ekim,30.000 TL,İzmir - Bornova - Erzene Mh.
+Daire,2+1,Çatı katı,85 m²,3 Ekim,18.000 TL,İzmir - Konak - Murat Reis Mh.
+Daire,3+1,2. Kat,120 m²,5 Ekim,13.000 TL,İzmir - Bayraklı - Soğukkuyu Mh.
+Daire,2+1,Kot 1 (-1). Kat,90 m²,6 Ekim,15.000 TL,İzmir - Balçova - Teleferik Mh.
+Daire,2+1,2. Kat,90 m²,3 Ekim,12.500 TL,İzmir - Menemen - Yahşelli Mh.
+Daire,2+1,2. Kat,100 m²,3 Ekim,18.000 TL,İzmir - Aliağa - Kültür Mh.
+Daire,3+1,7. Kat,120 m²,4 Ekim,18.000 TL,İzmir - Buca - Buca Koop. Mh.
+Daire,2+1,Yüksek giriş,100 m²,6 Ekim,18.000 TL,İzmir - Balçova - Fevzi Çakmak Mh.
+Daire,3+1,2. Kat,140 m²,9 Ekim,20.000 TL,İzmir - Balçova - Eğitim Mh.
+Daire,2+1,3. Kat,98 m²,8 Ekim,22.000 TL,İzmir - Konak - Kahramanlar Mh.
+Daire,3+1,Kot 2 (-2). Kat,135 m²,3 Ekim,20.000 TL,İzmir - Bornova - Yeşilova Mh.
+Daire,3+1,5. Kat,110 m²,3 Ekim,13.500 TL,İzmir - Karabağlar - Kazım Karabekir Mh.
+Daire,1+1,Yüksek giriş,55 m²,9 Ekim,14.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,1+1,3. Kat,75 m²,4 Ekim,500 TL,İzmir - Buca - Yaylacık Mh.
+Daire,2+1,Çatı katı,80 m²,4 Ekim,450 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+1,3. Kat,125 m²,3 Ekim,17.000 TL,İzmir - Çiğli - Küçük Çiğli Mh.
+Daire,2+1,4. Kat,80 m²,3 Ekim,23.000 TL,İzmir - Konak - Alsancak Mh.
+Daire,2+1,Bahçe katı,91 m²,3 Ekim,15.000 TL,İzmir - Çiğli - Küçük Çiğli Mh.
+Daire,2+1,Düz Giriş (Zemin),95 m²,3 Ekim,16.500 TL,İzmir - Buca - Yıldız Mh.
+Daire,3+1,2. Kat,140 m²,3 Ekim,16.500 TL,İzmir - Torbalı - Cumhuriyet Mh.
+Daire,3+1,2. Kat,140 m²,3 Ekim,11.500 TL,İzmir - Bergama - Zafer Mh.
+Daire,2+1,Kot 1 (-1). Kat,110 m²,4 Ekim,14.500 TL,İzmir - Torbalı - Fevzi Çakmak Mh.
+Daire,2+1,3. Kat,90 m²,5 Ekim,15.000 TL,İzmir - Seferihisar - Mersin Alanı Mh.
+Daire,3+1,1. Kat,150 m²,8 Ekim,18.500 TL,İzmir - Buca - Atatürk Mh.
+Daire,2+1,2. Kat,120 m²,10 Ekim,23.000 TL,İzmir - Bornova - Kızılay Mh.
+Daire,2+1,Yüksek giriş,110 m²,3 Ekim,17.000 TL,İzmir - Balçova - Eğitim Mh.
+Daire,1+1,1. Kat,50 m²,9 Ekim,15.000 TL,İzmir - Buca - Dicle Mh.
+Daire,3+1,7. Kat,128 m²,5 Ekim,24.000 TL,İzmir - Bayraklı - Manavkuyu Mh.
+Daire,3+1,Kot 1 (-1). Kat,120 m²,3 Ekim,20.000 TL,İzmir - Çiğli - Küçük Çiğli Mh.
+Daire,3+1,7. Kat,140 m²,9 Ekim,32.500 TL,İzmir - Buca - Yeşilbağlar Mh.
+Daire,2.5+1,Düz Giriş (Zemin),120 m²,7 Ekim,15.000 TL,İzmir - Konak - Duatepe Mh.
+Daire,3+1,4. Kat,115 m²,9 Ekim,22.000 TL,İzmir - Karşıyaka - Bahariye Mh.
+Daire,2+1,Düz Giriş (Zemin),120 m²,3 Ekim,15.000 TL,İzmir - Gaziemir - Hürriyet Mh.
+Daire,2+1,4. Kat,100 m²,8 Ekim,23.500 TL,İzmir - Karşıyaka - Bostanlı Mh.
+Daire,2+1,10. Kat,90 m²,2 Ekim,20.500 TL,İzmir - Karabağlar - Uzundere Mh.
+Daire,3+0,3. Kat,80 m²,4 Ekim,450 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,2. Kat,105 m²,3 Ekim,35.000 TL,İzmir - Konak - Güzelyalı Mh.
+Daire,2+1,2. Kat,95 m²,2 Ekim,19.000 TL,İzmir - Buca - Adatepe Mh.
+Villa,3.5+1,,170 m²,2 Ekim,600.000 TL,İzmir - Çeşme - Alaçatı Mh.
+Daire,3+1,1. Kat,130 m²,4 Ekim,12.500 TL,İzmir - Torbalı - Fevzi Çakmak Mh.
+Daire,3+1,7. Kat,140 m²,6 Ekim,35.000 TL,İzmir - Karşıyaka - Örnekköy Mh.
+Daire,2+1,4. Kat,95 m²,6 Ekim,15.000 TL,İzmir - Tire - Fatih Mh.
+Daire,2+1,2. Kat,100 m²,9 Ekim,15.000 TL,İzmir - Karabağlar - Uğur Mumcu Mh.
+Daire,1+1,Düz Giriş (Zemin),55 m²,4 Ekim,10.000 TL,İzmir - Aliağa - Kurtuluş Mh.
+Daire,2+1,2. Kat,100 m²,2 Ekim,16.500 TL,İzmir - Karabağlar - Barış Mh.
+Daire,3+1,3. Kat,125 m²,2 Ekim,18.500 TL,İzmir - Karabağlar - Yurdoğlu Mh.
+Daire,2+1,Düz Giriş (Zemin),100 m²,2 Ekim,2.350.000 TL,İzmir - Konak - Çankaya Mh.
+Daire,2+1,5. Kat,85 m²,6 Ekim,26.500 TL,İzmir - Balçova - Onur Mh.
+Daire,2+1,2. Kat,104 m²,2 Ekim,22.000 TL,İzmir - Karşıyaka - Donanmacı Mh.
+Daire,3+1,4. Kat,145 m²,5 Ekim,18.000 TL,İzmir - Karabağlar - Gülyaka Mh.
+Daire,3+1,3. Kat,170 m²,9 Ekim,29.000 TL,İzmir - Karşıyaka - Dedebaşı Mh.
+Daire,3+1,Kot 3 (-3). Kat,132 m²,2 Ekim,16.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,2+1,Kot 3 (-3). Kat,140 m²,2 Ekim,17.000 TL,İzmir - Torbalı - Muratbey Mh.
+Daire,2+1,3. Kat,85 m²,9 Ekim,20.000 TL,İzmir - Buca - Laleli Mh.
+Daire,1+1,2. Kat,55 m²,3 Ekim,13.500 TL,İzmir - Buca - Adatepe Mh.
+Daire,1+1,2. Kat,65 m²,9 Ekim,17.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,2+1,Kot 2 (-2). Kat,105 m²,2 Ekim,16.000 TL,İzmir - Çiğli - Harmandalı Gazi Mustafa Kemal Atatürk Mh.
+Daire,3+1,5. Kat,130 m²,2 Ekim,25.000 TL,İzmir - Karabağlar - Vatan Mh.
+Daire,2+1,Düz Giriş (Zemin),95 m²,2 Ekim,15.750 TL,İzmir - Konak - Murat Reis Mh.
+Daire,2+1,1. Kat,105 m²,2 Ekim,26.000 TL,İzmir - Karşıyaka - Şemikler Mh.
+Daire,2+1,Yüksek giriş,90 m²,8 Ekim,10.000 TL,İzmir - Bornova - Karacaoğlan Mh.
+Daire,2+1,4. Kat,90 m²,2 Ekim,13.000 TL,İzmir - Karşıyaka - Donanmacı Mh.
+Daire,3+1,1. Kat,155 m²,2 Ekim,30.000 TL,İzmir - Narlıdere - Çatalkaya Mh.
+Daire,1+1,2. Kat,45 m²,2 Ekim,17.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,3+1,4. Kat,120 m²,6 Ekim,24.000 TL,İzmir - Buca - Menderes Mh.
+Daire,3+1,6. Kat,100 m²,3 Ekim,13.000 TL,İzmir - Karabağlar - Refet Bele Mh.
+Daire,2+1,Bahçe katı,85 m²,2 Ekim,20.000 TL,İzmir - Konak - Kılıç Reis Mh.
+Daire,3+1,1. Kat,125 m²,2 Ekim,18.000 TL,İzmir - Buca - Buca Koop. Mh.
+Daire,1+1,7. Kat,65 m²,2 Ekim,20.000 TL,İzmir - Çiğli - Balatçık Mh.
+Müstakil Ev,2+1,,640 m²,2 Ekim,45.000 TL,İzmir - Torbalı - Ortaköy Mh.
+Daire,3+1,3. Kat,110 m²,2 Ekim,25.750 TL,İzmir - Konak - Kılıç Reis Mh.
+Daire,1+1,3. Kat,65 m²,2 Ekim,12.000 TL,İzmir - Buca - Yıldız Mh.
+Daire,2+1,Yüksek giriş,100 m²,4 Ekim,18.000 TL,İzmir - Karşıyaka - Nergiz Mh.
+Daire,3+1,4. Kat,160 m²,4 Ekim,32.000 TL,İzmir - Menemen - Ulus Mh.
+Daire,2+1,2. Kat,115 m²,4 Ekim,16.000 TL,İzmir - Bergama - Ertuğrul Mh.
+Daire,1+1,2. Kat,61 m²,4 Ekim,30.000 TL,İzmir - Karşıyaka - Yalı Mh.
+Daire,3+1,3. Kat,135 m²,4 Ekim,19.000 TL,İzmir - Karabağlar - Ali Fuat Cebesoy Mh.
+Daire,3+1,4. Kat,130 m²,4 Ekim,20.000 TL,İzmir - Karşıyaka - Örnekköy Mh.
+Daire,2+1,2. Kat,83 m²,4 Ekim,27.500 TL,İzmir - Karşıyaka - İmbatlı Mh.
+Daire,3+1,2. Kat,135 m²,4 Ekim,29.000 TL,İzmir - Bayraklı - Soğukkuyu Mh.
+Müstakil Ev,2+1,,85 m²,4 Ekim,12.000 TL,İzmir - Bayraklı - Emek Mh.
+Daire,2+1,4. Kat,125 m²,1 Ekim,25.500 TL,İzmir - Buca - Çamlıkule Mh.
+Daire,3+1,Yüksek giriş,110 m²,1 Ekim,24.000 TL,İzmir - Buca - İnkılap Mh.
+Daire,3+1,3. Kat,140 m²,1 Ekim,33.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,2+0,2. Kat,75 m²,1 Ekim,18.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+1,Düz Giriş (Zemin),110 m²,2 Ekim,12.000 TL,İzmir - Torbalı - Tepeköy Mh.
+Daire,1+1,4. Kat,55 m²,1 Ekim,25.000 TL,İzmir - Karşıyaka - Yalı Mh.
+Daire,1+1,3. Kat,90 m²,9 Ekim,500 TL,İzmir - Çiğli - Ataşehir Mh.
+Daire,3+1,1. Kat,130 m²,1 Ekim,18.000 TL,İzmir - Konak - Barbaros Mh.
+Daire,1+1,4. Kat,60 m²,7 Ekim,14.000 TL,İzmir - Bornova - Kızılay Mh.
+Daire,3+1,4. Kat,195 m²,1 Ekim,25.000 TL,İzmir - Balçova - Korutürk Mh.
+Daire,1 Oda,11. Kat,53 m²,1 Ekim,32.500 TL,İzmir - Konak - Halkapınar Mh.
+Daire,2+1,5. Kat,140 m²,1 Ekim,30.000 TL,İzmir - Konak - Barbaros Mh.
+Daire,2+1,Bahçe katı,85 m²,5 Ekim,19.000 TL,İzmir - Dikili - Gazipaşa Mh.
+Daire,3+1,2. Kat,128 m²,1 Ekim,22.000 TL,İzmir - Buca - Mustafa Kemal Mh.
+Daire,3+1,2. Kat,145 m²,7 Ekim,23.000 TL,İzmir - Bergama - Maltepe Mh.
+Daire,2+1,Düz Giriş (Zemin),110 m²,1 Ekim,20.000 TL,İzmir - Karabağlar - Sarıyer Mh.
+Daire,2+1,2. Kat,85 m²,9 Ekim,8.000 TL,İzmir - Karabağlar - Selvili Mh.
+Daire,3+1,3. Kat,130 m²,1 Ekim,15.000 TL,İzmir - Bergama - Turabey Mh.
+Daire,3+1,2. Kat,120 m²,1 Ekim,12.000 TL,İzmir - Karabağlar - Abdi İpekçi Mh.
+Daire,2+1,4. Kat,120 m²,1 Ekim,20.000 TL,İzmir - Buca - Ufuk Mh.
+Daire,3+1,2. Kat,140 m²,1 Ekim,26.000 TL,İzmir - Menderes - Altıntepe Mh.
+Daire,2+1,8. Kat,100 m²,2 Ekim,22.500 TL,İzmir - Konak - Murat Reis Mh.
+Daire,3+1,Yüksek giriş,120 m²,1 Ekim,22.000 TL,İzmir - Konak - Piri Reis Mh.
+Daire,1+1,20. Kat,88 m²,8 Ekim,21.000 TL,İzmir - Bornova - Barbaros Mh.
+Daire,2+1,4. Kat,110 m²,9 Ekim,14.000 TL,İzmir - Karabağlar - Barış Mh.
+Daire,3+1,Villa tipi,220 m²,1 Ekim,30.000 TL,İzmir - Menderes - Gümüldür Atatürk Mh.
+Daire,1+1,Yüksek giriş,55 m²,7 Ekim,16.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,1. Kat,85 m²,1 Ekim,18.000 TL,İzmir - Bayraklı - Bayraklı Mh.
+Daire,2+1,2. Kat,110 m²,2 Ekim,15.000 TL,İzmir - Bayraklı - Çay Mh.
+Daire,2+1,3. Kat,100 m²,1 Ekim,25.000 TL,İzmir - Bornova - Kızılay Mh.
+Daire,3+1,2. Kat,110 m²,1 Ekim,28.500 TL,İzmir - Aliağa - Yenişakran Mh.
+Daire,3+1,6. Kat,140 m²,1 Ekim,19.000 TL,İzmir - Çiğli - Evka-5 Mh.
+Daire,2+1,Yüksek giriş,95 m²,1 Ekim,13.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,3+1,5. Kat,140 m²,1 Ekim,26.500 TL,İzmir - Buca - Çamlıkule Mh.
+Daire,4+1,5. Kat,235 m²,1 Ekim,85.000 TL,İzmir - Bornova - Erzene Mh.
+Daire,2+1,2. Kat,100 m²,1 Ekim,15.000 TL,İzmir - Çiğli - Küçük Çiğli Mh.
+Daire,1 Oda,1. Kat,50 m²,1 Ekim,17.500 TL,İzmir - Çiğli - Uğur Mumcu Mh.
+Daire,3+1,Yüksek giriş,130 m²,4 Ekim,15.500 TL,İzmir - Karabağlar - Uğur Mumcu Mh.
+Daire,3+1,3. Kat,130 m²,2 Ekim,21.000 TL,İzmir - Karabağlar - Gülyaka Mh.
+Daire,3+1,2. Kat,140 m²,1 Ekim,20.000 TL,İzmir - Buca - Atatürk Mh.
+Villa,2+1,,100 m²,1 Ekim,150.000 TL,İzmir - Çeşme - Germiyan Mh.
+Daire,2+1,Yüksek giriş,110 m²,9 Ekim,19.000 TL,İzmir - Menemen - Kasımpaşa Mh.
+Daire,3+1,Kot 2 (-2). Kat,130 m²,4 Ekim,20.000 TL,İzmir - Çiğli - Küçük Çiğli Mh.
+Daire,2+1,3. Kat,100 m²,8 Ekim,25.000 TL,İzmir - Konak - Mimar Sinan Mh.
+Daire,2+1,4. Kat,120 m²,1 Ekim,20.000 TL,İzmir - Buca - Ufuk Mh.
+Daire,4+1,3. Kat,190 m²,9 Ekim,30.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,3+1,4. Kat,115 m²,1 Ekim,26.000 TL,İzmir - Konak - Güzelyalı Mh.
+Daire,2+1,1. Kat,110 m²,9 Ekim,18.000 TL,İzmir - Torbalı - Torbalı Mh.
+Daire,3+1,Yüksek giriş,140 m²,9 Ekim,25.000 TL,İzmir - Çiğli - Yakakent Mh.
+Daire,3+1,2. Kat,140 m²,8 Ekim,12.500 TL,İzmir - Menemen - Kazımpaşa Mh.
+Daire,2+1,2. Kat,90 m²,4 Ekim,11.000 TL,İzmir - Torbalı - Bahçelievler Mh.
+Daire,Stüdyo,Müstakil,25 m²,6 Ekim,10.000 TL,İzmir - Urla - Gülbahçe Mh.
+Daire,2+1,Yüksek giriş,400 m²,7 Ekim,19.000 TL,İzmir - Urla - Gülbahçe Mh.
+Daire,2+1,2. Kat,85 m²,9 Ekim,25.000 TL,İzmir - Karşıyaka - Nergiz Mh.
+Daire,4+1,Villa tipi,170 m²,1 Ekim,27.000 TL,İzmir - Menderes - Çukuraltı Mh.
+Daire,1+1,4. Kat,52 m²,1 Ekim,19.000 TL,İzmir - Karşıyaka - İnönü Mh.
+Daire,3+1,8. Kat,120 m²,30 Eylül,17.000 TL,İzmir - Çiğli - Yakakent Mh.
+Daire,1+1,2. Kat,70 m²,30 Eylül,30.000 TL,İzmir - Çeşme - İsmet İnönü Mh.
+Daire,1+1,Bahçe katı,55 m²,30 Eylül,7.500 TL,İzmir - Çiğli - Şirintepe Mh.
+Daire,3+1,Yüksek giriş,120 m²,30 Eylül,15.500 TL,İzmir - Çiğli - Şirintepe Mh.
+Daire,3+1,1. Kat,120 m²,9 Ekim,23.000 TL,İzmir - Bornova - Kızılay Mh.
+Daire,3+1,2. Kat,120 m²,4 Ekim,20.000 TL,İzmir - Bergama - Fatih Mh.
+Daire,3+1,Kot 3 (-3). Kat,110 m²,30 Eylül,13.000 TL,İzmir - Çiğli - Yakakent Mh.
+Daire,2+1,2. Kat,100 m²,30 Eylül,23.000 TL,İzmir - Bayraklı - Tepekule Mh.
+Daire,4+1,Müstakil,450 m²,30 Eylül,110.000 TL,İzmir - Güzelbahçe - Mustafa Kemal Paşa Mh.
+Daire,2+1,2. Kat,75 m²,30 Eylül,25.000 TL,İzmir - Urla - Güvendik Mh.
+Daire,3+1,3. Kat,120 m²,30 Eylül,25.000 TL,İzmir - Konak - Çankaya Mh.
+Daire,1+1,4. Kat,80 m²,30 Eylül,13.500 TL,İzmir - Karabağlar - Bozyaka Mh.
+Daire,4+1,Müstakil,300 m²,30 Eylül,90.000 TL,İzmir - Urla - Kalabak Mh.
+Yazlık,2+1,Bahçe dublex,86 m²,30 Eylül,35.000 TL,İzmir - Foça - Mustafa Kemal Atatürk Mh.
+Daire,2+1,Bahçe katı,75 m²,9 Ekim,10.000 TL,İzmir - Aliağa - Yeni Mh.
+Daire,2+1,4. Kat,100 m²,4 Ekim,14.000 TL,İzmir - Konak - Mithatpaşa Mh.
+Daire,2+1,1. Kat,101 m²,30 Eylül,15.000 TL,İzmir - Buca - Yıldız Mh.
+Daire,2+1,3. Kat,125 m²,30 Eylül,20.000 TL,İzmir - Buca - Fırat Mh.
+Daire,3+1,Çatı katı,120 m²,30 Eylül,20.000 TL,İzmir - Konak - Göztepe Mh.
+Daire,2+1,4. Kat,85 m²,2 Ekim,39.000 TL,İzmir - Bornova - Yeşilova Mh.
+Daire,2+1,Yüksek giriş,105 m²,9 Ekim,13.000 TL,İzmir - Buca - Çamlık Mh.
+Daire,1+1,4. Kat,43 m²,2 Ekim,35.000 TL,İzmir - Konak - Halkapınar Mh.
+Daire,1 Oda,Çatı katı,95 m²,30 Eylül,10.000 TL,İzmir - Konak - Murat Reis Mh.
+Daire,3+1,4. Kat,150 m²,30 Eylül,23.000 TL,İzmir - Buca - Vali Rahmi Bey Mh.
+Daire,2+1,2. Kat,110 m²,30 Eylül,22.000 TL,İzmir - Buca - İnkılap Mh.
+Daire,3+1,Yüksek giriş,145 m²,4 Ekim,30.000 TL,İzmir - Menderes - Cüneytbey Mh.
+Daire,2+1,Bahçe dublex,200 m²,30 Eylül,22.500 TL,İzmir - Bornova - Atatürk Mh.
+Daire,3+1,Yüksek giriş,100 m²,30 Eylül,20.000 TL,İzmir - Bornova - Atatürk Mh.
+Daire,1+1,3. Kat,55 m²,30 Eylül,14.500 TL,İzmir - Buca - Atatürk Mh.
+Daire,2+1,1. Kat,90 m²,30 Eylül,27.000 TL,İzmir - Konak - Murat Reis Mh.
+Daire,2+1,Yüksek giriş,80 m²,7 Ekim,20.000 TL,İzmir - Balçova - Eğitim Mh.
+Daire,2+1,2. Kat,110 m²,7 Ekim,15.000 TL,İzmir - Bergama - Gazipaşa Mh.
+Daire,2+1,2. Kat,90 m²,30 Eylül,10.000 TL,İzmir - Tire - Toki Mh.
+Daire,3+1,2. Kat,120 m²,7 Ekim,15.000 TL,İzmir - Buca - Yeşilbağlar Mh.
+Daire,3+1,2. Kat,125 m²,7 Ekim,20.000 TL,İzmir - Buca - Yeşilbağlar Mh.
+Daire,1+1,Düz Giriş (Zemin),85 m²,30 Eylül,12.000 TL,İzmir - Buca - Yeşilbağlar Mh.
+Daire,3+1,1. Kat,130 m²,30 Eylül,20.000 TL,İzmir - Buca - Mustafa Kemal Mh.
+Daire,2+1,Düz Giriş (Zemin),100 m²,30 Eylül,15.000 TL,İzmir - Buca - Yeşilbağlar Mh.
+Daire,2+1,Yüksek giriş,100 m²,30 Eylül,16.000 TL,İzmir - Bornova - Atatürk Mh.
+Daire,3+1,Yüksek giriş,125 m²,7 Ekim,30.000 TL,İzmir - Karabağlar - Üçkuyular Mh.
+Daire,3+1,Çatı katı,120 m²,30 Eylül,15.000 TL,İzmir - Karşıyaka - Goncalar Mh.
+Daire,3+1,3. Kat,125 m²,9 Ekim,18.500 TL,İzmir - Menemen - Gazi Mh.
+Daire,3+1,1. Kat,140 m²,30 Eylül,28.500 TL,İzmir - Bayraklı - R. Şevket İnce Mh.
+Daire,3+1,1. Kat,140 m²,3 Ekim,14.000 TL,İzmir - Tire - İhsaniye Mh.
+Daire,2+1,3. Kat,110 m²,3 Ekim,23.000 TL,İzmir - Karabağlar - Bahar Mh.
+Daire,1+1,3. Kat,57 m²,29 Eylül,15.000 TL,İzmir - Buca - Yıldız Mh.
+Daire,2+1,2. Kat,90 m²,9 Ekim,22.500 TL,İzmir - Bornova - Doğanlar Mh.
+Daire,3+1,Yüksek giriş,122 m²,29 Eylül,17.000 TL,İzmir - Çiğli - Harmandalı Gazi Mustafa Kemal Atatürk Mh.
+Daire,2+1,5. Kat,90 m²,5 Ekim,30.000 TL,İzmir - Karşıyaka - İmbatlı Mh.
+Daire,3+1,4. Kat,130 m²,29 Eylül,25.000 TL,İzmir - Buca - Atatürk Mh.
+Daire,2+1,Yüksek giriş,85 m²,29 Eylül,16.000 TL,İzmir - Buca - Kozağaç Mh.
+Villa,2+1,,60 m²,8 Ekim,26.000 TL,İzmir - Urla - Barbaros Mh.
+Daire,3+1,1. Kat,145 m²,29 Eylül,16.000 TL,İzmir - Buca - Atatürk Mh.
+Villa,3+1,,140 m²,30 Eylül,35.000 TL,İzmir - Urla - Atatürk Mh.
+Daire,2+1,2. Kat,65 m²,29 Eylül,15.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,2+1,1. Kat,110 m²,9 Ekim,13.000 TL,İzmir - Bayraklı - Alpaslan Mh.
+Daire,3+1,6. Kat,180 m²,4 Ekim,53.000 TL,İzmir - Bornova - Yeşilova Mh.
+Daire,3+1,1. Kat,160 m²,9 Ekim,14.000 TL,İzmir - Kemalpaşa - Ören 75.yıl Cumhuriyet Mh.
+Daire,3+1,8. Kat,145 m²,9 Ekim,50.000 TL,İzmir - Bornova - Erzene Mh.
+Daire,3+1,Düz Giriş (Zemin),140 m²,9 Ekim,22.000 TL,İzmir - Menemen - İstiklal Mh.
+Daire,3+1,1. Kat,125 m²,9 Ekim,23.000 TL,İzmir - Çiğli - Ataşehir Mh.
+Daire,1 Oda,Düz Giriş (Zemin),26 m²,1 Ekim,7.000 TL,İzmir - Konak - Mecidiye Mh.
+Daire,2+1,1. Kat,90 m²,28 Eylül,20.000 TL,İzmir - Buca - Barış Mh.
+Daire,3+1,1. Kat,98 m²,30 Eylül,15.000 TL,İzmir - Bornova - Barbaros Mh.
+Daire,1+1,1. Kat,85 m²,30 Eylül,12.500 TL,İzmir - Bayraklı - Fuat Edip Baksı Mh.
+Daire,2+1,Yüksek giriş,110 m²,28 Eylül,15.000 TL,İzmir - Torbalı - Yedi Eylül Mh.
+Daire,3+1,2. Kat,140 m²,9 Ekim,18.000 TL,İzmir - Bayraklı - Postacılar Mh.
+Daire,2+1,Düz Giriş (Zemin),100 m²,28 Eylül,18.000 TL,İzmir - Balçova - Eğitim Mh.
+Daire,1+1,2. Kat,55 m²,28 Eylül,17.000 TL,İzmir - Buca - Atatürk Mh.
+Müstakil Ev,2+1,,120 m²,9 Ekim,20.000 TL,İzmir - Bornova - Yıldırım Beyazıt Mh.
+Daire,3+1,4. Kat,120 m²,9 Ekim,20.000 TL,İzmir - Bornova - Yıldırım Beyazıt Mh.
+Daire,3+1,3. Kat,120 m²,8 Ekim,20.000 TL,İzmir - Bornova - Naldöken Mh.
+Daire,2+1,4. Kat,85 m²,5 Ekim,22.000 TL,İzmir - Karşıyaka - İmbatlı Mh.
+Daire,2+1,Kot 2 (-2). Kat,95 m²,28 Eylül,22.000 TL,İzmir - Karabağlar - Refet Bele Mh.
+Daire,3+1,5. Kat,130 m²,28 Eylül,35.000 TL,İzmir - Konak - Çankaya Mh.
+Villa,3+1,,135 m²,28 Eylül,30.000 TL,İzmir - Çeşme - Alaçatı Mh.
+Daire,3+1,5. Kat,130 m²,7 Ekim,12.000 TL,İzmir - Bergama - Maltepe Mh.
+Daire,2+1,Düz Giriş (Zemin),90 m²,8 Ekim,22.000 TL,İzmir - Aliağa - Yeni Mh.
+Daire,2+1,1. Kat,95 m²,28 Eylül,18.000 TL,İzmir - Menemen - Uğur Mumcu Mh.
+Daire,2+0,Kot 2 (-2). Kat,65 m²,28 Eylül,12.500 TL,İzmir - Buca - Ufuk Mh.
+Daire,2+1,3. Kat,90 m²,8 Ekim,25.000 TL,İzmir - Aliağa - Yeni Mh.
+Daire,2+1,4. Kat,120 m²,7 Ekim,17.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,1+1,2. Kat,50 m²,7 Ekim,13.000 TL,İzmir - Buca - Yıldız Mh.
+Daire,3+1,4. Kat,155 m²,9 Ekim,28.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,3+1,2. Kat,120 m²,5 Ekim,14.000 TL,İzmir - Karabağlar - Sarıyer Mh.
+Villa,7+1,,2500 m²,3 Ekim,200.000 TL,İzmir - Urla - Yenice Mh.
+Daire,3+1,4. Kat,150 m²,3 Ekim,20.000 TL,İzmir - Torbalı - Atatürk Mh.
+Daire,2+1,2. Kat,95 m²,28 Eylül,26.500 TL,İzmir - Karşıyaka - Şemikler Mh.
+Daire,2+1,1. Kat,110 m²,9 Ekim,15.000 TL,İzmir - Karabağlar - Barış Mh.
+Daire,3+1,3. Kat,125 m²,6 Ekim,25.000 TL,İzmir - Balçova - Teleferik Mh.
+Daire,2+1,6. Kat,110 m²,2 Ekim,20.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,2+1,Bahçe katı,80 m²,28 Eylül,15.000 TL,İzmir - Buca - Göksu Mh.
+Daire,2+1,Kot 3 (-3). Kat,110 m²,28 Eylül,22.500 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,3+1,4. Kat,120 m²,28 Eylül,25.000 TL,İzmir - Balçova - Eğitim Mh.
+Daire,3+1,1. Kat,125 m²,30 Eylül,20.000 TL,İzmir - Bornova - Yeşilova Mh.
+Daire,3+1,8. Kat,147 m²,28 Eylül,45.000 TL,İzmir - Buca - Aydoğdu Mh.
+Daire,2+1,1. Kat,110 m²,28 Eylül,18.000 TL,İzmir - Dikili - İsmetpaşa Mh.
+Daire,2+1,Düz Giriş (Zemin),65 m²,27 Eylül,16.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+1,Yüksek giriş,110 m²,27 Eylül,25.000 TL,İzmir - Konak - Güzelyalı Mh.
+Daire,2+1,5. Kat,112 m²,27 Eylül,16.000 TL,İzmir - Bornova - Yeşilova Mh.
+Villa,3+1,,160 m²,4 Ekim,42.500 TL,İzmir - Menderes - Cüneytbey Mh.
+Daire,2+1,5. Kat,112 m²,27 Eylül,15.000 TL,İzmir - Bornova - Yeşilova Mh.
+Daire,2+1,3. Kat,100 m²,27 Eylül,19.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,2+1,3. Kat,110 m²,28 Eylül,13.000 TL,İzmir - Buca - Fırat Mh.
+Daire,3+1,2. Kat,160 m²,27 Eylül,20.500 TL,İzmir - Menemen - Cumhuriyet Mh.
+Daire,1+1,3. Kat,60 m²,2 Ekim,20.000 TL,İzmir - Buca - Vali Rahmi Bey Mh.
+Daire,1+1,Yüksek giriş,50 m²,27 Eylül,13.500 TL,İzmir - Dikili - Gazipaşa Mh.
+Daire,2+0,Yüksek giriş,45 m²,2 Ekim,8.000 TL,İzmir - Karabağlar - Karabağlar Mh.
+Daire,3+1,2. Kat,130 m²,27 Eylül,20.000 TL,İzmir - Bergama - Fatih Mh.
+Daire,2+1,2. Kat,125 m²,7 Ekim,25.000 TL,İzmir - Bornova - Atatürk Mh.
+Daire,1+1,2. Kat,55 m²,30 Eylül,12.000 TL,İzmir - Menemen - İnönü Mh.
+Daire,2+1,1. Kat,130 m²,9 Ekim,19.000 TL,İzmir - Karabağlar - Selvili Mh.
+Daire,3+1,2. Kat,120 m²,1 Ekim,20.000 TL,İzmir - Bornova - Atatürk Mh.
+Daire,3+1,5. Kat,155 m²,27 Eylül,25.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,2. Kat,85 m²,3 Ekim,19.500 TL,İzmir - Bornova - Evka 4 Mh.
+Daire,3+1,3. Kat,140 m²,8 Ekim,26.000 TL,İzmir - Torbalı - Torbalı Mh.
+Daire,1+1,3. Kat,60 m²,27 Eylül,20.000 TL,İzmir - Torbalı - Tepeköy Mh.
+Daire,2+1,3. Kat,90 m²,27 Eylül,15.000 TL,İzmir - Bayraklı - Emek Mh.
+Daire,2+1,3. Kat,95 m²,2 Ekim,16.500 TL,İzmir - Bergama - Gaziosmanpaşa Mh.
+Daire,5+1,3. Kat,270 m²,2 Ekim,27.500 TL,İzmir - Bergama - Turabey Mh.
+Daire,3+1,3. Kat,155 m²,2 Ekim,15.000 TL,İzmir - Bergama - Fatih Mh.
+Daire,3+1,1. Kat,130 m²,9 Ekim,16.500 TL,İzmir - Bornova - Doğanlar Mh.
+Daire,3+1,Bodrum Kat,120 m²,9 Ekim,16.000 TL,İzmir - Bornova - Kızılay Mh.
+Daire,3+1,2. Kat,115 m²,9 Ekim,13.000 TL,İzmir - Bornova - Ergene Mh.
+Daire,2+1,Bahçe katı,90 m²,1 Ekim,16.000 TL,İzmir - Bornova - Yıldırım Beyazıt Mh.
+Daire,2+1,Yüksek giriş,90 m²,9 Ekim,12.500 TL,İzmir - Bornova - Doğanlar Mh.
+Daire,3+1,4. Kat,140 m²,6 Ekim,28.000 TL,İzmir - Narlıdere - Ilıca Mh.
+Daire,3+1,4. Kat,138 m²,27 Eylül,23.500 TL,İzmir - Buca - Menderes Mh.
+Daire,4+1,Yüksek giriş,160 m²,27 Eylül,15.000 TL,İzmir - Torbalı - Atatürk Mh.
+Daire,3+1,1. Kat,140 m²,4 Ekim,15.000 TL,İzmir - Karabağlar - Karabağlar Mh.
+Daire,1+1,Çatı katı,65 m²,27 Eylül,12.000 TL,İzmir - Menderes - Çukuraltı Mh.
+Müstakil Ev,1+1,,60 m²,27 Eylül,2.500 TL,İzmir - Menderes - Gümüldür Fevzi Çakmak Mh.
+Daire,1+1,Düz Giriş (Zemin),55 m²,27 Eylül,2.000 TL,İzmir - Menderes - Çukuraltı Mh.
+Daire,1+1,2. Kat,55 m²,27 Eylül,13.500 TL,İzmir - Menderes - Çukuraltı Mh.
+Daire,2+1,2. Kat,70 m²,7 Ekim,16.000 TL,İzmir - Menderes - Çukuraltı Mh.
+Daire,3+1,2. Kat,120 m²,9 Ekim,15.000 TL,İzmir - Bayraklı - Osmangazi Mh.
+Daire,2+1,1. Kat,90 m²,27 Eylül,15.500 TL,İzmir - Karabağlar - Bozyaka Mh.
+Daire,3+1,3. Kat,130 m²,4 Ekim,18.000 TL,İzmir - Karabağlar - Refet Bele Mh.
+Daire,3+1,Yüksek giriş,130 m²,26 Eylül,24.000 TL,İzmir - Bayraklı - R. Şevket İnce Mh.
+Daire,2+1,2. Kat,120 m²,27 Eylül,12.500 TL,İzmir - Bornova - Zafer Mh.
+Daire,3+1,8. Kat,125 m²,5 Ekim,18.000 TL,İzmir - Menemen - 29 Ekim Mh.
+Daire,3+1,Kot 1 (-1). Kat,140 m²,2 Ekim,27.000 TL,İzmir - Bayraklı - Mansuroğlu Mh.
+Daire,2+1,Yüksek giriş,120 m²,7 Ekim,12.000 TL,İzmir - Gaziemir - Aktepe Mh.
+Daire,3+1,3. Kat,120 m²,26 Eylül,29.500 TL,İzmir - Karşıyaka - Bahçelievler Mh.
+Müstakil Ev,2+1,,90 m²,26 Eylül,8.000 TL,İzmir - Çiğli - Güzeltepe Mh.
+Daire,1+1,1. Kat,55 m²,26 Eylül,17.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,2+1,4. Kat,100 m²,26 Eylül,25.000 TL,İzmir - Bornova - Doğanlar Mh.
+Villa,3+1,,140 m²,26 Eylül,70.000 TL,İzmir - Urla - Yağcılar Mh.
+Daire,2+1,Yüksek giriş,120 m²,4 Ekim,13.000 TL,İzmir - Bornova - Koşukavak Mh.
+Villa,5+1,,340 m²,26 Eylül,93.000 TL,İzmir - Urla - Kuşçular Mh.
+Daire,2+1,14. Kat,110 m²,6 Ekim,30.000 TL,İzmir - Bornova - Rafet Paşa Mh.
+Daire,3+1,Çatı Dubleks,240 m²,4 Ekim,17.500 TL,İzmir - Torbalı - Ayrancılar Mh.
+Daire,1+1,Yüksek giriş,70 m²,26 Eylül,13.500.000 TL,İzmir - Urla - Gülbahçe Mh.
+Daire,2+1,2. Kat,110 m²,9 Ekim,11.000 TL,İzmir - Karabağlar - Gazi Mh.
+Daire,2+1,Bahçe katı,120 m²,26 Eylül,15.000 TL,İzmir - Bayraklı - R. Şevket İnce Mh.
+Daire,2+1,1. Kat,90 m²,26 Eylül,25.000 TL,İzmir - Gaziemir - Irmak Mh.
+Daire,2+1,Yüksek giriş,110 m²,26 Eylül,10.000 TL,İzmir - Buca - Göksu Mh.
+Daire,Stüdyo,1. Kat,75 m²,8 Ekim,1.000 TL,İzmir - Karşıyaka - Donanmacı Mh.
+Daire,3+1,Düz Giriş (Zemin),150 m²,26 Eylül,15.000 TL,İzmir - Konak - Mithatpaşa Mh.
+Daire,2+1,3. Kat,110 m²,1 Ekim,26.000 TL,İzmir - Karşıyaka - Yalı Mh.
+Daire,3+1,Kot 3 (-3). Kat,120 m²,26 Eylül,17.000 TL,İzmir - Çiğli - Evka - 2 Mh.
+Daire,2+1,Düz Giriş (Zemin),70 m²,28 Eylül,18.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,2+1,4. Kat,95 m²,26 Eylül,27.000 TL,İzmir - Konak - Murat Reis Mh.
+Daire,2+1,2. Kat,95 m²,4 Ekim,22.000 TL,İzmir - Karşıyaka - Örnekköy Mh.
+Daire,3+1,4. Kat,140 m²,4 Ekim,25.000 TL,İzmir - Karşıyaka - Zübeyde Hanım Mh.
+Daire,3+1,2. Kat,130 m²,2 Ekim,22.000 TL,İzmir - Konak - Murat Mh.
+Residence,1+1,5. Kat,50 m²,26 Eylül,40.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,3+1,4. Kat,150 m²,26 Eylül,18.000 TL,İzmir - Seferihisar - Camikebir Mh.
+Daire,2+1,2. Kat,85 m²,4 Ekim,13.500 TL,İzmir - Torbalı - Fevzi Çakmak Mh.
+Daire,2+1,1. Kat,85 m²,25 Eylül,25.000 TL,İzmir - Çiğli - Esentepe Mh.
+Daire,2+1,4. Kat,85 m²,25 Eylül,25.000 TL,İzmir - Çiğli - Esentepe Mh.
+Daire,2+1,Yüksek giriş,110 m²,9 Ekim,15.000 TL,İzmir - Bornova - Doğanlar Mh.
+Daire,1 Oda,Düz Giriş (Zemin),41 m²,7 Ekim,16.000 TL,İzmir - Foça - Yenibağarası Mh.
+Bina,3+1,,125 m²,25 Eylül,19.000 TL,İzmir - Menemen - Gazi Mh.
+Daire,2+1,4. Kat,110 m²,8 Ekim,17.000 TL,İzmir - Konak - Murat Reis Mh.
+Daire,2+1,2. Kat,110 m²,4 Ekim,13.000 TL,İzmir - Bornova - Ergene Mh.
+Daire,3+1,Bahçe katı,125 m²,8 Ekim,28.000 TL,İzmir - Aliağa - Kurtuluş Mh.
+Daire,3+1,Çatı Dubleks,108 m²,25 Eylül,24.000 TL,İzmir - Dikili - Çandarlı Mh.
+Daire,2+1,Yüksek giriş,95 m²,7 Ekim,27.000 TL,İzmir - Gaziemir - Dokuz Eylül Mh.
+Daire,3+1,2. Kat,190 m²,2 Ekim,19.000 TL,İzmir - Bergama - Zafer Mh.
+Daire,2+0,4. Kat,55 m²,2 Ekim,15.000 TL,İzmir - Buca - Yaylacık Mh.
+Müstakil Ev,3+1,,219 m²,25 Eylül,40.000 TL,İzmir - Güzelbahçe - Çelebi Mh.
+Villa,4+1,,235 m²,25 Eylül,60.000 TL,İzmir - Menderes - Kemalpaşa Mh.
+Daire,3+1,6. Kat,135 m²,25 Eylül,21.000 TL,İzmir - Karabağlar - Vatan Mh.
+Daire,1+1,5. Kat,72 m²,25 Eylül,24.500 TL,İzmir - Bornova - Barbaros Mh.
+Daire,3+1,4. Kat,155 m²,8 Ekim,20.000 TL,İzmir - Buca - Mustafa Kemal Mh.
+Daire,2+1,2. Kat,80 m²,27 Eylül,22.500 TL,İzmir - Çeşme - Dalyan Mh.
+Daire,2+1,3. Kat,75 m²,7 Ekim,15.000 TL,İzmir - Menemen - Zeytinlik Mh.
+Daire,1+1,3. Kat,65 m²,25 Eylül,12.000 TL,İzmir - Torbalı - Türkmenköy Mh.
+Yazlık,2+1,Bahçe katı,238 m²,2 Ekim,10.000 TL,İzmir - Urla - İskele Mh.
+Daire,2+1,2. Kat,80 m²,25 Eylül,25.000 TL,İzmir - Urla - Kuşçular Mh.
+Daire,Stüdyo,2. Kat,32 m²,25 Eylül,17.000 TL,İzmir - Urla - Kuşçular Mh.
+Daire,2+1,4. Kat,110 m²,25 Eylül,17.500 TL,İzmir - Konak - Murat Reis Mh.
+Daire,2+1,1. Kat,85 m²,7 Ekim,17.500 TL,İzmir - Torbalı - Muratbey Mh.
+Daire,3+1,3. Kat,145 m²,25 Eylül,21.500 TL,İzmir - Buca - Akıncılar Mh.
+Daire,3+1,3. Kat,120 m²,25 Eylül,19.000 TL,İzmir - Buca - Yıldız Mh.
+Daire,2+1,1. Kat,110 m²,25 Eylül,21.000 TL,İzmir - Buca - Barış Mh.
+Müstakil Ev,1+1,,60 m²,25 Eylül,10.000 TL,İzmir - Gaziemir - Gazi Mh.
+Daire,3+1,2. Kat,150 m²,25 Eylül,28.500 TL,İzmir - Buca - Buca Koop. Mh.
+Daire,2+1,3. Kat,100 m²,25 Eylül,18.000 TL,İzmir - Bornova - Atatürk Mh.
+Daire,3+1,Bahçe katı,110 m²,10 Ekim,20.000 TL,İzmir - Bornova - İnönü Mh.
+Daire,4+1,5. Kat,250 m²,2 Ekim,62.000 TL,İzmir - Buca - Menderes Mh.
+Daire,3+1,3. Kat,150 m²,25 Eylül,12.500 TL,İzmir - Gaziemir - Aktepe Mh.
+Daire,3+1,Yüksek giriş,120 m²,25 Eylül,20.000 TL,İzmir - Bayraklı - Manavkuyu Mh.
+Daire,3+1,2. Kat,105 m²,25 Eylül,33.000 TL,İzmir - Karşıyaka - Donanmacı Mh.
+Daire,2+1,Yüksek giriş,110 m²,4 Ekim,15.000 TL,İzmir - Torbalı - Ayrancılar Mh.
+Daire,3+1,2. Kat,150 m²,4 Ekim,18.000 TL,İzmir - Torbalı - Fevzi Çakmak Mh.
+Daire,3+1,2. Kat,130 m²,27 Eylül,16.000 TL,İzmir - Torbalı - Bahçelievler Mh.
+Daire,3+1,2. Kat,135 m²,27 Eylül,18.200 TL,İzmir - Torbalı - Ayrancılar Mh.
+Daire,4+1,4. Kat,145 m²,4 Ekim,22.000 TL,İzmir - Aliağa - Yeni Mh.
+Daire,3+1,3. Kat,125 m²,25 Eylül,19.500 TL,İzmir - Karabağlar - Doğanay Mh.
+Daire,2+1,3. Kat,110 m²,26 Eylül,30.000 TL,İzmir - Bornova - Kızılay Mh.
+Daire,1+1,2. Kat,100 m²,1 Ekim,29.999 TL,İzmir - Urla - Güvendik Mh.
+Daire,2+1,1. Kat,85 m²,4 Ekim,12.000 TL,İzmir - Aliağa - Yeni Mh.
+Daire,2+1,2. Kat,135 m²,25 Eylül,16.000 TL,İzmir - Urla - Kadıovacık Mh.
+Daire,2+1,Yüksek giriş,1100 m²,9 Ekim,16.000 TL,İzmir - Çiğli - Ataşehir Mh.
+Daire,3+1,3. Kat,135 m²,2 Ekim,14.000 TL,İzmir - Bergama - Bahçelievler Mh.
+Daire,1+1,6. Kat,76 m²,7 Ekim,22.000 TL,İzmir - Menemen - İstiklal Mh.
+Daire,1+1,1. Kat,62 m²,7 Ekim,17.000 TL,İzmir - Karşıyaka - Zübeyde Hanım Mh.
+Daire,3+1,2. Kat,125 m²,25 Eylül,27.000 TL,İzmir - Menderes - Gölcükler Mh.
+Daire,3+1,2. Kat,115 m²,3 Ekim,25.000 TL,İzmir - Karabağlar - Esenyalı Mh.
+Daire,2+1,4. Kat,90 m²,7 Ekim,22.000 TL,İzmir - Konak - Güzelyalı Mh.
+Daire,3+1,1. Kat,110 m²,7 Ekim,18.000 TL,İzmir - Konak - Göztepe Mh.
+Daire,3+1,7. Kat,130 m²,7 Ekim,32.500 TL,İzmir - Karabağlar - Esenyalı Mh.
+Daire,3+1,3. Kat,170 m²,25 Eylül,70.000 TL,İzmir - Gaziemir - Gazi Mh.
+Daire,2+1,Kot 1 (-1). Kat,100 m²,25 Eylül,12.500 TL,İzmir - Konak - Barbaros Mh.
+Daire,4+1,Çatı Dubleks,160 m²,8 Ekim,17.000 TL,İzmir - Torbalı - Ayrancılar Mh.
+Daire,2+1,1. Kat,72 m²,8 Ekim,27.500 TL,İzmir - Bornova - Erzene Mh.
+Daire,2+1,4. Kat,80 m²,8 Ekim,23.000 TL,İzmir - Bayraklı - Mansuroğlu Mh.
+Daire,3+1,3. Kat,125 m²,25 Eylül,21.000 TL,İzmir - Aliağa - Kazım Dirik Mh.
+Daire,3+1,4. Kat,135 m²,25 Eylül,17.500 TL,İzmir - Bergama - Maltepe Mh.
+Daire,3+1,2. Kat,135 m²,24 Eylül,23.000 TL,İzmir - Menemen - Mermerli Mh.
+Daire,3+1,2. Kat,110 m²,24 Eylül,28.000 TL,İzmir - Bayraklı - Manavkuyu Mh.
+Daire,3+1,Düz Giriş (Zemin),120 m²,24 Eylül,20.000 TL,İzmir - Karaburun - Merkez Mh.
+Daire,1+1,Yüksek giriş,65 m²,24 Eylül,11.000 TL,İzmir - Bergama - Fatih Mh.
+Daire,2+1,2. Kat,120 m²,24 Eylül,14.000 TL,İzmir - Konak - Fatih Mh.
+Daire,2+1,2. Kat,100 m²,9 Ekim,18.000 TL,İzmir - Konak - Atilla Mh.
+Daire,3+1,Bahçe katı,150 m²,24 Eylül,15.000 TL,İzmir - Bayraklı - Osmangazi Mh.
+Daire,2+1,Bahçe katı,85 m²,24 Eylül,25.000 TL,İzmir - Torbalı - Yedi Eylül Mh.
+Daire,3+1,4. Kat,115 m²,24 Eylül,16.000 TL,İzmir - Karabağlar - Doğanay Mh.
+Daire,3+1,2. Kat,150 m²,5 Ekim,30.000 TL,İzmir - Aliağa - Siteler Mh.
+Daire,3+1,3. Kat,132 m²,5 Ekim,26.000 TL,İzmir - Menemen - Kemal Atatürk Mh.
+Daire,3+1,3. Kat,180 m²,9 Ekim,38.000 TL,İzmir - Gaziemir - Irmak Mh.
+Daire,3+1,4. Kat,130 m²,4 Ekim,18.000 TL,İzmir - Karabağlar - Gülyaka Mh.
+Daire,3+1,7. Kat,140 m²,4 Ekim,17.000 TL,İzmir - Torbalı - Fevzi Çakmak Mh.
+Daire,3+1,2. Kat,140 m²,24 Eylül,38.000 TL,İzmir - Bornova - Erzene Mh.
+Daire,2+1,1. Kat,100 m²,8 Ekim,8.500 TL,İzmir - Konak - Zafertepe Mh.
+Daire,3+1,2. Kat,130 m²,8 Ekim,27.500 TL,İzmir - Karabağlar - Fahrettin Altay Mh.
+Daire,2+1,2. Kat,110 m²,24 Eylül,50.000 TL,İzmir - Aliağa - Yenişakran Mh.
+Daire,3+1,3. Kat,150 m²,26 Eylül,35.000 TL,İzmir - Karşıyaka - İmbatlı Mh.
+Daire,2+1,2. Kat,90 m²,4 Ekim,15.000 TL,İzmir - Torbalı - Fevzi Çakmak Mh.
+Daire,3+1,1. Kat,120 m²,5 Ekim,20.000 TL,İzmir - Karabağlar - Sarıyer Mh.
+Daire,3+1,Müstakil,250 m²,4 Ekim,35.000 TL,İzmir - Torbalı - İnönü Mh.
+Daire,2.5+1,2. Kat,95 m²,24 Eylül,25.000 TL,İzmir - Konak - Kahramanlar Mh.
+Daire,2+1,1. Kat,100 m²,8 Ekim,20.000 TL,İzmir - Bornova - Kızılay Mh.
+Daire,3+1,2. Kat,130 m²,7 Ekim,23.000 TL,İzmir - Buca - Ufuk Mh.
+Daire,2+1,Yüksek giriş,80 m²,7 Ekim,20.000 TL,İzmir - Balçova - Eğitim Mh.
+Daire,1+1,2. Kat,50 m²,24 Eylül,20.000 TL,İzmir - Buca - Çamlıkule Mh.
+Daire,2+1,8. Kat,90 m²,27 Eylül,11.000 TL,İzmir - Torbalı - Bahçelievler Mh.
+Müstakil Ev,5+1,,180 m²,24 Eylül,40.000 TL,İzmir - Urla - Güvendik Mh.
+Müstakil Ev,1+1,,75 m²,9 Ekim,7.000 TL,İzmir - Karabağlar - Yunus Emre Mh.
+Daire,1+1,2. Kat,60 m²,24 Eylül,13.000 TL,İzmir - Torbalı - Tepeköy Mh.
+Daire,3+1,3. Kat,130 m²,2 Ekim,28.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Müstakil Ev,3+1,,120 m²,24 Eylül,60.000 TL,İzmir - Urla - Denizli Mh.
+Daire,4+1,1. Kat,160 m²,9 Ekim,30.000 TL,İzmir - Dikili - İsmetpaşa Mh.
+Daire,2+1,1. Kat,90 m²,7 Ekim,10.000 TL,İzmir - Bayraklı - Gümüşpala Mh.
+Daire,2+1,2. Kat,75 m²,24 Eylül,16.000 TL,İzmir - Konak - Alsancak Mh.
+Daire,3+1,2. Kat,130 m²,9 Ekim,17.000 TL,İzmir - Menemen - Esatpaşa Mh.
+Daire,1+1,Kot 1 (-1). Kat,95 m²,24 Eylül,10.000 TL,İzmir - Karabağlar - Peker Mh.
+Daire,3+1,Kot 1 (-1). Kat,110 m²,9 Ekim,25.000 TL,İzmir - Karabağlar - Üçkuyular Mh.
+Daire,3+1,6. Kat,130 m²,30 Eylül,19.000 TL,İzmir - Menemen - Zeytinlik Mh.
+Daire,3+1,2. Kat,129 m²,25 Eylül,15.000 TL,İzmir - Bayraklı - Çay Mh.
+Daire,2+1,2. Kat,110 m²,28 Eylül,28.000 TL,İzmir - Menderes - Kasımpaşa Mh.
+Daire,2+1,2. Kat,85 m²,24 Eylül,14.000 TL,İzmir - Bayraklı - Bayraklı Mh.
+Daire,3+1,2. Kat,130 m²,9 Ekim,27.000 TL,İzmir - Bornova - Kızılay Mh.
+Daire,3+1,2. Kat,130 m²,23 Eylül,20.000 TL,İzmir - Bayraklı - Adalet Mh.
+Daire,3+1,3. Kat,135 m²,8 Ekim,35.000 TL,İzmir - Bayraklı - Cengizhan Mh.
+Daire,2+1,2. Kat,120 m²,8 Ekim,45.000 TL,İzmir - Karşıyaka - Bostanlı Mh.
+Daire,1+1,Düz Giriş (Zemin),70 m²,23 Eylül,9.000 TL,İzmir - Karşıyaka - Cumhuriyet Mh.
+Daire,2+1,2. Kat,90 m²,23 Eylül,15.000 TL,İzmir - Bornova - Atatürk Mh.
+Daire,2+1,1. Kat,110 m²,23 Eylül,29.000 TL,İzmir - Gaziemir - Dokuz Eylül Mh.
+Daire,1+1,1. Kat,100 m²,24 Eylül,20.000 TL,İzmir - Çeşme - Ardıç Mh.
+Daire,3+1,2. Kat,110 m²,23 Eylül,35.000 TL,İzmir - Çeşme - İsmet İnönü Mh.
+Daire,3+1,Çatı katı,140 m²,23 Eylül,35.000 TL,İzmir - Karşıyaka - İmbatlı Mh.
+Daire,4+1,3. Kat,235 m²,23 Eylül,70.000 TL,İzmir - Bornova - Erzene Mh.
+Daire,3+1,2. Kat,120 m²,9 Ekim,21.000 TL,İzmir - Karabağlar - Gülyaka Mh.
+Daire,3+1,4. Kat,130 m²,25 Eylül,25.000 TL,İzmir - Menemen - Mermerli Mh.
+Daire,3+1,Yüksek giriş,120 m²,23 Eylül,24.000 TL,İzmir - Çiğli - Yeni Mahalle Mh.
+Daire,4+1,4. Kat,165 m²,28 Eylül,17.000 TL,İzmir - Karabağlar - Bahar Mh.
+Daire,2+1,2. Kat,110 m²,23 Eylül,19.000 TL,İzmir - Torbalı - Muratbey Mh.
+Daire,3+1,4. Kat,125 m²,25 Eylül,13.500 TL,İzmir - Torbalı - Ertuğrul Mh.
+Daire,1+1,2. Kat,55 m²,27 Eylül,11.500 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+1,1. Kat,120 m²,23 Eylül,22.500 TL,İzmir - Buca - Akıncılar Mh.
+Daire,3+1,2. Kat,120 m²,23 Eylül,15.000 TL,İzmir - Karabağlar - Kazım Karabekir Mh.
+Daire,1+1,Yüksek giriş,55 m²,9 Ekim,15.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+1,9. Kat,160 m²,23 Eylül,30.000 TL,İzmir - Menemen - 9 Eylül Mh.
+Daire,3+1,1. Kat,135 m²,23 Eylül,25.000 TL,İzmir - Balçova - Fevzi Çakmak Mh.
+Daire,1+1,4. Kat,75 m²,24 Eylül,20.000 TL,İzmir - Buca - Adatepe Mh.
+Yazlık,3+1,Villa tipi,150 m²,23 Eylül,25.000 TL,İzmir - Seferihisar - Atatürk Mh.
+Daire,3+1,3. Kat,120 m²,9 Ekim,25.000 TL,İzmir - Konak - Zafertepe Mh.
+Bina,4+2,,112 m²,23 Eylül,2.000.000 TL,İzmir - Konak - Aziziye Mh.
+Daire,3+1,2. Kat,130 m²,22 Eylül,18.000 TL,İzmir - Buca - Barış Mh.
+Daire,2+1,3. Kat,90 m²,22 Eylül,20.000 TL,İzmir - Buca - Buca Koop. Mh.
+Daire,2+1,Bahçe katı,85 m²,23 Eylül,25.000 TL,İzmir - Dikili - Gazipaşa Mh.
+Daire,3+1,2. Kat,140 m²,23 Eylül,26.000 TL,İzmir - Kemalpaşa - Sekiz Eylül Mh.
+Daire,2+1,Kot 3 (-3). Kat,100 m²,22 Eylül,15.000 TL,İzmir - Çiğli - Küçük Çiğli Mh.
+Daire,3+1,4. Kat,135 m²,6 Ekim,25.000 TL,İzmir - Balçova - Korutürk Mh.
+Villa,3+1,,145 m²,22 Eylül,55.000 TL,İzmir - Güzelbahçe - Kahramandere Mh.
+Residence,1+1,3. Kat,60 m²,27 Eylül,25.000 TL,İzmir - Çeşme - İsmet İnönü Mh.
+Daire,1+1,Kot 1 (-1). Kat,55 m²,4 Ekim,13.500 TL,İzmir - Buca - Yaylacık Mh.
+Daire,3+1,4. Kat,130 m²,24 Eylül,17.000 TL,İzmir - Bergama - Zafer Mh.
+Daire,2+1,2. Kat,80 m²,21 Eylül,20.000 TL,İzmir - Buca - Kozağaç Mh.
+Daire,2+1,2. Kat,105 m²,4 Ekim,16.000 TL,İzmir - Buca - İnönü Mh.
+Daire,3+1,3. Kat,125 m²,9 Ekim,25.000 TL,İzmir - Buca - Çamlık Mh.
+Daire,3+1,3. Kat,125 m²,8 Ekim,18.500 TL,İzmir - Menemen - Gazi Mh.
+Villa,4+1,,220 m²,28 Eylül,48.000 TL,İzmir - Menderes - Barbaros Mh.
+Daire,4+1,Çatı Dubleks,230 m²,23 Eylül,19.000 TL,İzmir - Torbalı - İnönü Mh.
+Daire,5+1,Kot 2 (-2). Kat,190 m²,21 Eylül,80.000 TL,İzmir - Aliağa - Yeni Mh.
+Daire,2+1,2. Kat,100 m²,1 Ekim,17.000 TL,İzmir - Konak - Murat Reis Mh.
+Daire,2+1,Kot 1 (-1). Kat,100 m²,21 Eylül,12.500 TL,İzmir - Konak - Barbaros Mh.
+Daire,3+1,2. Kat,115 m²,9 Ekim,35.000 TL,İzmir - Buca - Çamlık Mh.
+Daire,2+1,Kot 2 (-2). Kat,95 m²,1 Ekim,15.000 TL,İzmir - Çiğli - Küçük Çiğli Mh.
+Daire,2+1,Yüksek giriş,80 m²,28 Eylül,15.000 TL,İzmir - Buca - Kozağaç Mh.
+Daire,1+1,Çatı Dubleks,55 m²,21 Eylül,12.000 TL,İzmir - Menemen - 85. Yıl Cumhuriyet Mh.
+Daire,2+1,2. Kat,75 m²,27 Eylül,25.000 TL,İzmir - Çeşme - Ilıca Mh.
+Daire,3.5+1,Düz Giriş (Zemin),145 m²,3 Ekim,27.000 TL,İzmir - Aliağa - Kazım Dirik Mh.
+Villa,4+1,,300 m²,27 Eylül,40.000 TL,İzmir - Çeşme - Yalı Mh.
+Daire,2+1,2. Kat,65 m²,27 Eylül,23.000 TL,İzmir - Çeşme - Reisdere Mh.
+Daire,2+1,Yüksek giriş,95 m²,20 Eylül,20.000 TL,İzmir - Buca - Dumlupınar Mh.
+Daire,2+1,5. Kat,110 m²,9 Ekim,13.000 TL,İzmir - Torbalı - Ayrancılar Mh.
+Daire,3+1,Yüksek giriş,140 m²,1 Ekim,17.000 TL,İzmir - Çiğli - Evka - 6 Mh.
+Daire,3+1,2. Kat,120 m²,20 Eylül,23.000 TL,İzmir - Çiğli - Küçük Çiğli Mh.
+Daire,2+1,1. Kat,85 m²,21 Eylül,17.500 TL,İzmir - Torbalı - Muratbey Mh.
+Daire,2+1,1. Kat,85 m²,26 Eylül,17.500 TL,İzmir - Torbalı - Muratbey Mh.
+Daire,2+1,Kot 1 (-1). Kat,95 m²,7 Ekim,20.000 TL,İzmir - Konak - Mithatpaşa Mh.
+Daire,1+1,3. Kat,72 m²,9 Ekim,30.000 TL,İzmir - Karşıyaka - Mavişehir Mh.
+Daire,2+1,1. Kat,85 m²,9 Ekim,21.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,3+1,5. Kat,120 m²,28 Eylül,27.000 TL,İzmir - Buca - Buca Koop. Mh.
+Daire,Stüdyo,10. Kat,50 m²,5 Ekim,23.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,2+1,2. Kat,110 m²,5 Ekim,25.000 TL,İzmir - Karşıyaka - Aksoy Mh.
+Daire,2+1,7. Kat,86 m²,22 Eylül,30.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,3+1,2. Kat,130 m²,22 Eylül,30.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,2+1,1. Kat,90 m²,1 Ekim,18.000 TL,İzmir - Bayraklı - Tepekule Mh.
+Daire,3+1,3. Kat,120 m²,21 Eylül,17.000 TL,İzmir - Konak - Güney Mh.
+Daire,2+1,Yüksek giriş,95 m²,20 Eylül,15.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,3+1,7. Kat,135 m²,9 Ekim,32.000 TL,İzmir - Karabağlar - Muammer Akar Mh.
+Daire,1+1,1. Kat,85 m²,20 Eylül,12.500 TL,İzmir - Bayraklı - Fuat Edip Baksı Mh.
+Daire,2+1,2. Kat,75 m²,8 Ekim,15.000 TL,İzmir - Aliağa - Yeni Mh.
+Daire,2+1,3. Kat,95 m²,4 Ekim,18.000 TL,İzmir - Menderes - Cüneytbey Mh.
+Daire,2+1,Yüksek giriş,110 m²,27 Eylül,15.000 TL,İzmir - Torbalı - Ayrancılar Mh.
+Yazlık,4+1,Müstakil,250 m²,20 Eylül,16.000 TL,İzmir - Bergama - Zeytindağ Mh.
+Daire,2+1,2. Kat,105 m²,20 Eylül,16.000 TL,İzmir - Karabağlar - Aydın Mh.
+Daire,3+1,4. Kat,138 m²,20 Eylül,38.000 TL,İzmir - Balçova - Onur Mh.
+Daire,3+1,2. Kat,140 m²,2 Ekim,20.000 TL,İzmir - Karabağlar - Bozyaka Mh.
+Daire,2+1,Yüksek giriş,90 m²,6 Ekim,10.000 TL,İzmir - Karabağlar - Sarıyer Mh.
+Daire,3+1,2. Kat,150 m²,20 Eylül,19.750 TL,İzmir - Buca - Fırat Mh.
+Daire,2+1,Düz Giriş (Zemin),90 m²,4 Ekim,10.000 TL,İzmir - Karabağlar - Cennetoğlu Mh.
+Daire,2+1,Yüksek giriş,90 m²,9 Ekim,15.000 TL,İzmir - Buca - Barış Mh.
+Daire,1+1,2. Kat,70 m²,20 Eylül,16.500 TL,İzmir - Dikili - Salihler Mh.
+Daire,3+1,4. Kat,120 m²,20 Eylül,25.000 TL,İzmir - Konak - Çankaya Mh.
+Daire,3+1,3. Kat,145 m²,3 Ekim,25.000 TL,İzmir - Buca - Akıncılar Mh.
+Daire,1+1,2. Kat,60 m²,25 Eylül,15.500 TL,İzmir - Menemen - İnönü Mh.
+Daire,2+1,6. Kat,90 m²,25 Eylül,34.750 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,3+1,6. Kat,140 m²,25 Eylül,30.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,3+1,1. Kat,130 m²,25 Eylül,26.000 TL,İzmir - Karşıyaka - Nergiz Mh.
+Daire,1+1,4. Kat,45 m²,20 Eylül,18.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,Çatı katı,100 m²,28 Eylül,25.000 TL,İzmir - Menderes - Barbaros Mh.
+Daire,3+1,4. Kat,145 m²,4 Ekim,23.000 TL,İzmir - Menderes - Kemalpaşa Mh.
+Daire,2+1,2. Kat,90 m²,30 Eylül,30.000 TL,İzmir - Karşıyaka - İnönü Mh.
+Daire,2+1,3. Kat,110 m²,25 Eylül,26.750 TL,İzmir - Çiğli - Küçük Çiğli Mh.
+Daire,3+1,2. Kat,145 m²,19 Eylül,38.500 TL,İzmir - Balçova - Onur Mh.
+Daire,3+1,Yüksek giriş,125 m²,19 Eylül,24.000 TL,İzmir - Balçova - Eğitim Mh.
+Daire,3+1,2. Kat,145 m²,25 Eylül,38.500 TL,İzmir - Balçova - Onur Mh.
+Daire,3+1,3. Kat,120 m²,2 Ekim,17.000 TL,İzmir - Çiğli - İzkent Mh.
+Daire,3+1,2. Kat,120 m²,2 Ekim,28.000 TL,İzmir - Aliağa - Yeni Mh.
+Daire,2+1,Düz Giriş (Zemin),85 m²,2 Ekim,26.000 TL,İzmir - Aliağa - Siteler Mh.
+Daire,2+1,3. Kat,100 m²,2 Ekim,18.500 TL,İzmir - Bergama - Fatih Mh.
+Daire,3+1,6. Kat,180 m²,25 Eylül,44.000 TL,İzmir - Bornova - Meriç Mh.
+Daire,1+1,3. Kat,55 m²,25 Eylül,19.000 TL,İzmir - Bayraklı - Cengizhan Mh.
+Daire,1+1,2. Kat,45 m²,2 Ekim,20.000 TL,İzmir - Aliağa - Yeni Mh.
+Daire,2+1,2. Kat,125 m²,25 Eylül,17.500 TL,İzmir - Bergama - Ertuğrul Mh.
+Daire,2+1,4. Kat,100 m²,25 Eylül,18.000 TL,İzmir - Bergama - Fatih Mh.
+Daire,2+1,1. Kat,90 m²,25 Eylül,15.500 TL,İzmir - Bergama - Zafer Mh.
+Daire,3+1,4. Kat,145 m²,2 Ekim,14.500 TL,İzmir - Bergama - Maltepe Mh.
+Villa,3+1,,140 m²,27 Eylül,58.000 TL,İzmir - Urla - Kalabak Mh.
+Müstakil Ev,3+1,,155 m²,25 Eylül,33.000 TL,İzmir - Dikili - Çandarlı Mh.
+Daire,3+1,1. Kat,110 m²,25 Eylül,33.000 TL,İzmir - Aliağa - Yalı Mh.
+Daire,2+1,3. Kat,110 m²,25 Eylül,13.000 TL,İzmir - Bergama - Zafer Mh.
+Daire,3+1,3. Kat,110 m²,25 Eylül,22.000 TL,İzmir - Bergama - Fatih Mh.
+Daire,2+1,5. Kat,114 m²,25 Eylül,32.000 TL,İzmir - Aliağa - Kurtuluş Mh.
+Daire,3+1,1. Kat,250 m²,25 Eylül,32.000 TL,İzmir - Aliağa - Yeni Mh.
+Daire,3+1,7. Kat,185 m²,19 Eylül,45.000 TL,İzmir - Karabağlar - Fahrettin Altay Mh.
+Daire,2+1,2. Kat,75 m²,25 Eylül,18.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,2. Kat,85 m²,25 Eylül,25.000 TL,İzmir - Buca - Atatürk Mh.
+Daire,3+1,2. Kat,110 m²,25 Eylül,30.000 TL,İzmir - Buca - Atatürk Mh.
+Daire,3+1,3. Kat,130 m²,19 Eylül,27.000 TL,İzmir - Bornova - Atatürk Mh.
+Daire,3+1,3. Kat,110 m²,19 Eylül,20.000 TL,İzmir - Bornova - İnönü Mh.
+Daire,2+1,Bahçe katı,110 m²,19 Eylül,18.000 TL,İzmir - Bornova - Atatürk Mh.
+Daire,Stüdyo,Bahçe katı,55 m²,8 Ekim,20.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,3+1,5. Kat,95 m²,19 Eylül,18.500 TL,İzmir - Dikili - İsmetpaşa Mh.
+Daire,3+1,3. Kat,125 m²,25 Eylül,35.000 TL,İzmir - Balçova - Korutürk Mh.
+Daire,3+1,Çatı katı,120 m²,30 Eylül,32.500 TL,İzmir - Narlıdere - Ilıca Mh.
+Daire,2+1,Yüksek giriş,90 m²,25 Eylül,31.000 TL,İzmir - Balçova - Korutürk Mh.
+Daire,1+1,Yüksek giriş,50 m²,25 Eylül,26.000 TL,İzmir - Balçova - Eğitim Mh.
+Daire,3+1,Yüksek giriş,110 m²,25 Eylül,32.000 TL,İzmir - Balçova - Onur Mh.
+Daire,1+1,2. Kat,65 m²,25 Eylül,35.000 TL,İzmir - Balçova - Fevzi Çakmak Mh.
+Daire,2+1,Kot 1 (-1). Kat,85 m²,26 Eylül,19.000 TL,İzmir - Balçova - Eğitim Mh.
+Daire,1+1,2. Kat,60 m²,25 Eylül,21.000 TL,İzmir - Balçova - Korutürk Mh.
+Daire,2+1,Yüksek giriş,105 m²,19 Eylül,25.000 TL,İzmir - Karabağlar - Arap Hasan Mh.
+Daire,1+1,3. Kat,70 m²,19 Eylül,16.500 TL,İzmir - Dikili - İsmetpaşa Mh.
+Daire,3+1,2. Kat,125 m²,19 Eylül,18.000 TL,İzmir - Çiğli - Ataşehir Mh.
+Daire,3+1,Yüksek giriş,135 m²,7 Ekim,27.000 TL,İzmir - Konak - Kılıç Reis Mh.
+Daire,1+1,Kot 2 (-2). Kat,52 m²,19 Eylül,15.000 TL,İzmir - Çiğli - Küçük Çiğli Mh.
+Villa,5+1,,322 m²,19 Eylül,145.000 TL,İzmir - Çiğli - Sasallı Merkez Mh.
+Daire,2+1,Düz Giriş (Zemin),100 m²,5 Ekim,14.000 TL,İzmir - Karabağlar - Sarıyer Mh.
+Daire,2+1,1. Kat,96 m²,19 Eylül,20.000 TL,İzmir - Tire - Hürriyet Mh.
+Daire,3+1,2. Kat,140 m²,2 Ekim,16.000 TL,İzmir - Bergama - Gaziosmanpaşa Mh.
+Daire,3+1,1. Kat,125 m²,26 Eylül,2.650.000 TL,İzmir - Konak - Murat Reis Mh.
+Daire,3+1,5. Kat,120 m²,25 Eylül,32.000 TL,İzmir - Karşıyaka - Bostanlı Mh.
+Daire,3+1,3. Kat,130 m²,25 Eylül,24.500 TL,İzmir - Bayraklı - Mansuroğlu Mh.
+Villa,3+1,,240 m²,25 Eylül,50.000 TL,İzmir - Menderes - Çukuraltı Mh.
+Daire,2+1,2. Kat,80 m²,25 Eylül,25.000 TL,İzmir - Seferihisar - Çolak İbrahim Bey Mh.
+Villa,4+1,,145 m²,25 Eylül,50.000 TL,İzmir - Çeşme - Şifne Mh.
+Villa,3+1,,150 m²,25 Eylül,70.000 TL,İzmir - Seferihisar - Sığacık Mh.
+Daire,2+1,2. Kat,110 m²,5 Ekim,14.000 TL,İzmir - Karabağlar - Abdi İpekçi Mh.
+Daire,3+1,2. Kat,120 m²,5 Ekim,25.000 TL,İzmir - Karabağlar - Gülyaka Mh.
+Daire,1 Oda,Düz Giriş (Zemin),30 m²,7 Ekim,10.000 TL,İzmir - Konak - Murat Reis Mh.
+Daire,3+1,2. Kat,140 m²,25 Eylül,19.000 TL,İzmir - Buca - Atatürk Mh.
+Daire,1+1,1. Kat,50 m²,25 Eylül,13.500 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,2+1,4. Kat,85 m²,25 Eylül,25.000 TL,İzmir - Konak - Alsancak Mh.
+Daire,4+1,Çatı Dubleks,165 m²,18 Eylül,4.750.000 TL,İzmir - Dikili - İsmetpaşa Mh.
+Villa,5+1,,275 m²,25 Eylül,75.000 TL,İzmir - Foça - Yenibağarası Mh.
+Daire,1+1,1. Kat,45 m²,19 Eylül,27.000 TL,İzmir - Balçova - Teleferik Mh.
+Daire,4+1,5. Kat,155 m²,18 Eylül,45.000 TL,İzmir - Konak - Mimar Sinan Mh.
+Daire,2+1,3. Kat,110 m²,7 Ekim,18.500 TL,İzmir - Buca - Yenigün Mh.
+Villa,5+2,,330 m²,25 Eylül,80.000 TL,İzmir - Güzelbahçe - Çamlı Mh.
+Daire,3+1,3. Kat,160 m²,19 Eylül,17.000 TL,İzmir - Buca - Göksu Mh.
+Daire,3+1,1. Kat,120 m²,18 Eylül,15.000 TL,İzmir - Ödemiş - Cumhuriyet Mh.
+Daire,2+0,Düz Giriş (Zemin),65 m²,25 Eylül,16.000 TL,İzmir - Buca - Yıldız Mh.
+Daire,3+1,3. Kat,130 m²,25 Eylül,20.000 TL,İzmir - Karşıyaka - Şemikler Mh.
+Daire,3+1,5. Kat,140 m²,25 Eylül,23.000 TL,İzmir - Bornova - Kızılay Mh.
+Daire,3+1,1. Kat,140 m²,25 Eylül,18.000 TL,İzmir - Konak - Kılıç Reis Mh.
+Daire,2+1,Yüksek giriş,95 m²,3 Ekim,13.000 TL,İzmir - Menemen - Irmak Mh.
+Daire,1+1,2. Kat,60 m²,27 Eylül,17.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,2. Kat,90 m²,4 Ekim,20.000 TL,İzmir - Seferihisar - Camikebir Mh.
+Daire,3+1,2. Kat,135 m²,5 Ekim,25.000 TL,İzmir - Menemen - Atatürk Mh.
+Yazlık,3+1,Müstakil,200 m²,9 Ekim,20.000 TL,İzmir - Dikili - Gazipaşa Mh.
+Daire,3+1,4. Kat,120 m²,18 Eylül,28.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,2+1,2. Kat,95 m²,8 Ekim,22.000 TL,İzmir - Konak - Akın Simav Mh.
+Daire,2+1,Düz Giriş (Zemin),100 m²,18 Eylül,15.500 TL,İzmir - Buca - Çamlıkule Mh.
+Daire,2+1,3. Kat,75 m²,1 Ekim,28.000 TL,İzmir - Balçova - Korutürk Mh.
+Daire,2+1,Kot 2 (-2). Kat,85 m²,1 Ekim,20.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,3+1,1. Kat,145 m²,18 Eylül,15.000 TL,İzmir - Bergama - Zafer Mh.
+Daire,1+1,5. Kat,55 m²,27 Eylül,30.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,1+1,Bahçe katı,45 m²,18 Eylül,11.000 TL,İzmir - Dikili - Cumhuriyet Mh.
+Daire,2+1,7. Kat,85 m²,25 Eylül,10.000 TL,İzmir - Tire - Atatürk Mh.
+Daire,3+1,2. Kat,135 m²,1 Ekim,25.000 TL,İzmir - Buca - Efeler Mh.
+Daire,2+1,1. Kat,110 m²,25 Eylül,19.500 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+0,4. Kat,90 m²,25 Eylül,10.000 TL,İzmir - Buca - Çamlıkule Mh.
+Daire,1+1,2. Kat,55 m²,25 Eylül,15.500 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,Düz Giriş (Zemin),100 m²,4 Ekim,20.000 TL,İzmir - Karabağlar - Metin Oktay Mh.
+Daire,2+1,7. Kat,90 m²,18 Eylül,30.000 TL,İzmir - Konak - Kültür Mh.
+Daire,3+1,1. Kat,125 m²,18 Eylül,20.000 TL,İzmir - Bornova - Yeşilova Mh.
+Daire,2+1,Yüksek giriş,90 m²,8 Ekim,14.000 TL,İzmir - Bornova - Karacaoğlan Mh.
+Daire,3+1,2. Kat,200 m²,18 Eylül,30.000 TL,İzmir - Çiğli - Harmandalı Gazi Mustafa Kemal Atatürk Mh.
+Daire,1+1,Düz Giriş (Zemin),70 m²,26 Eylül,15.000 TL,İzmir - Buca - Yıldız Mh.
+Daire,3+1,5. Kat,100 m²,25 Eylül,18.500 TL,İzmir - Dikili - İsmetpaşa Mh.
+Daire,3+1,3. Kat,175 m²,18 Eylül,23.000 TL,İzmir - Bergama - Fatih Mh.
+Müstakil Ev,2+1,,500 m²,9 Ekim,28.000 TL,İzmir - Dikili - Bademli Mh.
+Residence,3+1,9. Kat,135 m²,25 Eylül,46.000 TL,İzmir - Bayraklı - Osmangazi Mh.
+Daire,1+1,4. Kat,42 m²,25 Eylül,25.000 TL,İzmir - Karşıyaka - Yalı Mh.
+Daire,1+1,3. Kat,40 m²,18 Eylül,16.500 TL,İzmir - Konak - Zafertepe Mh.
+Daire,2+1,Yüksek giriş,80 m²,9 Ekim,13.500 TL,İzmir - Bergama - Atatürk Mh.
+Daire,4+1,Düz Giriş (Zemin),185 m²,17 Eylül,80.000 TL,İzmir - Bornova - Evka 3 Mh.
+Daire,3+1,Bahçe katı,350 m²,18 Eylül,13.000 TL,İzmir - Torbalı - İnönü Mh.
+Daire,1+1,2. Kat,55 m²,21 Eylül,16.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+1,2. Kat,130 m²,27 Eylül,19.000 TL,İzmir - Buca - Atatürk Mh.
+Daire,1+1,Yüksek giriş,50 m²,17 Eylül,11.000 TL,İzmir - Buca - Atatürk Mh.
+Daire,3+1,4. Kat,130 m²,27 Eylül,19.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,2+1,4. Kat,90 m²,8 Ekim,24.000 TL,İzmir - Aliağa - Yeni Mh.
+Daire,2+1,2. Kat,125 m²,23 Eylül,20.000 TL,İzmir - Buca - Ufuk Mh.
+Villa,4+1,,235 m²,17 Eylül,160.000 TL,İzmir - Urla - Yenice Mh.
+Daire,3+1,8. Kat,140 m²,17 Eylül,26.000 TL,İzmir - Bornova - Atatürk Mh.
+Daire,2+1,2. Kat,120 m²,25 Eylül,15.000 TL,İzmir - Bornova - Yeşilova Mh.
+Daire,2+1,2. Kat,75 m²,20 Eylül,15.000 TL,İzmir - Aliağa - Yeni Mh.
+Daire,1+1,Bahçe katı,70 m²,17 Eylül,10.000 TL,İzmir - Bornova - Atatürk Mh.
+Daire,2+1,1. Kat,115 m²,17 Eylül,20.000 TL,İzmir - Bornova - İnönü Mh.
+Daire,3+1,2. Kat,140 m²,7 Ekim,12.000 TL,İzmir - Bergama - Zafer Mh.
+Daire,3+1,Yüksek giriş,140 m²,25 Eylül,18.000 TL,İzmir - Menemen - Kazımpaşa Mh.
+Daire,3+1,2. Kat,125 m²,4 Ekim,20.000 TL,İzmir - Karabağlar - Kibar Mh.
+Daire,3+1,Çatı katı,140 m²,17 Eylül,17.000 TL,İzmir - Torbalı - Alpkent Mh.
+Daire,3+1,Çatı katı,140 m²,17 Eylül,16.000 TL,İzmir - Torbalı - Atatürk Mh.
+Daire,3+1,2. Kat,140 m²,17 Eylül,16.000 TL,İzmir - Torbalı - Atatürk Mh.
+Daire,2+1,Çatı katı,90 m²,17 Eylül,9.000 TL,İzmir - Torbalı - Atatürk Mh.
+Daire,1+1,5. Kat,60 m²,26 Eylül,18.000 TL,İzmir - Torbalı - Yedi Eylül Mh.
+Daire,2+1,Çatı katı,100 m²,9 Ekim,12.000 TL,İzmir - Karabağlar - Cennetoğlu Mh.
+Villa,4+1,,180 m²,4 Ekim,50.000 TL,İzmir - Menderes - Barbaros Mh.
+Daire,1+1,2. Kat,50 m²,17 Eylül,28.000 TL,İzmir - Foça - Fatih Mh.
+Daire,1+1,4. Kat,55 m²,18 Eylül,22.500 TL,İzmir - Karşıyaka - İnönü Mh.
+Daire,2+1,2. Kat,92 m²,17 Eylül,33.000 TL,İzmir - Karşıyaka - İnönü Mh.
+Daire,1+1,Düz Giriş (Zemin),60 m²,25 Eylül,18.000 TL,İzmir - Torbalı - Torbalı Mh.
+Daire,1+1,3. Kat,75 m²,23 Eylül,600 TL,İzmir - Buca - Yaylacık Mh.
+Daire,2+1,3. Kat,80 m²,16 Eylül,25.000 TL,İzmir - Buca - Atatürk Mh.
+Daire,2+1,2. Kat,95 m²,17 Eylül,15.700 TL,İzmir - Bergama - Fatih Mh.
+Daire,4+1,Bahçe dublex,185 m²,8 Ekim,38.000 TL,İzmir - Karşıyaka - Bahariye Mh.
+Daire,2+1,2. Kat,65 m²,16 Eylül,20.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,1+1,1. Kat,65 m²,1 Ekim,12.000 TL,İzmir - Menemen - 85. Yıl Cumhuriyet Mh.
+Daire,Stüdyo,Yüksek giriş,35 m²,26 Eylül,20.000 TL,İzmir - Karşıyaka - İmbatlı Mh.
+Daire,2+1,2. Kat,80 m²,16 Eylül,20.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,4. Kat,90 m²,25 Eylül,16.500 TL,İzmir - Torbalı - Muratbey Mh.
+Daire,3+1,4. Kat,150 m²,25 Eylül,27.000 TL,İzmir - Karşıyaka - Dedebaşı Mh.
+Daire,4+1,Yüksek giriş,150 m²,25 Eylül,24.000 TL,İzmir - Karşıyaka - Dedebaşı Mh.
+Daire,3+1,6. Kat,127 m²,25 Eylül,30.000 TL,İzmir - Menemen - Kemal Atatürk Mh.
+Daire,3+1,3. Kat,137 m²,25 Eylül,47.000 TL,İzmir - Karşıyaka - Mavişehir Mh.
+Daire,2+1,1. Kat,115 m²,25 Eylül,22.000 TL,İzmir - Dikili - Çandarlı Mh.
+Daire,3+1,2. Kat,150 m²,25 Eylül,23.000 TL,İzmir - Dikili - Çandarlı Mh.
+Daire,1+1,2. Kat,55 m²,8 Ekim,11.500 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,2. Kat,115 m²,17 Eylül,23.000 TL,İzmir - Dikili - Gazipaşa Mh.
+Daire,3+1,2. Kat,130 m²,16 Eylül,30.000 TL,İzmir - Çeşme - Dalyan Mh.
+Daire,3+1,1. Kat,140 m²,9 Ekim,29.000 TL,İzmir - Karabağlar - General Kazım Özalp Mh.
+Müstakil Ev,3+1,,180 m²,25 Eylül,20.000 TL,İzmir - Bergama - Bahçelievler Mh.
+Daire,1+1,1. Kat,45 m²,16 Eylül,15.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,3. Kat,120 m²,2 Ekim,12.000 TL,İzmir - Karabağlar - Sarıyer Mh.
+Daire,2+1,3. Kat,120 m²,2 Ekim,8.500 TL,İzmir - Konak - Ferahlı Mh.
+Daire,3+1,1. Kat,140 m²,25 Eylül,29.000 TL,İzmir - Bayraklı - Osmangazi Mh.
+Daire,2+1,Yüksek giriş,90 m²,16 Eylül,25.000 TL,İzmir - Karabağlar - Vatan Mh.
+Yazlık,2+2,Müstakil,120 m²,16 Eylül,40.000 TL,İzmir - Çeşme - Cumhuriyet Mh.
+Daire,3+1,Müstakil,98 m²,16 Eylül,15.000 TL,İzmir - Bornova - Barbaros Mh.
+Daire,3+1,6. Kat,130 m²,16 Eylül,18.000 TL,İzmir - Buca - Buca Koop. Mh.
+Daire,2+1,2. Kat,85 m²,26 Eylül,15.000 TL,İzmir - Urla - Kadıovacık Mh.
+Daire,2+1,2. Kat,95 m²,2 Ekim,12.000 TL,İzmir - Karabağlar - Çalıkuşu Mh.
+Daire,1+1,3. Kat,65 m²,16 Eylül,18.000 TL,İzmir - Bornova - Erzene Mh.
+Daire,2.5+1,3. Kat,120 m²,21 Eylül,20.000 TL,İzmir - Ödemiş - Umurbey Mh.
+Daire,2+1,6. Kat,80 m²,16 Eylül,32.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,3+1,3. Kat,130 m²,8 Ekim,25.000 TL,İzmir - Konak - Zafertepe Mh.
+Daire,3+1,4. Kat,135 m²,16 Eylül,20.000 TL,İzmir - Buca - Yenigün Mh.
+Daire,1+1,2. Kat,65 m²,29 Eylül,15.000 TL,İzmir - Menemen - İnönü Mh.
+Daire,1+1,2. Kat,55 m²,26 Eylül,15.000 TL,İzmir - Buca - Yıldız Mh.
+Daire,3+1,3. Kat,135 m²,23 Eylül,35.000 TL,İzmir - Gaziemir - Gazi Mh.
+Daire,3+1,3. Kat,150 m²,25 Eylül,20.000 TL,İzmir - Tire - Hürriyet Mh.
+Daire,2+1,2. Kat,70 m²,25 Eylül,30.000 TL,İzmir - Çeşme - Reisdere Mh.
+Daire,2+1,2. Kat,100 m²,25 Eylül,25.000 TL,İzmir - Karabağlar - General Asım Gündüz Mh.
+Daire,2+1,12. Kat,80 m²,25 Eylül,15.000 TL,İzmir - Karabağlar - Yaşar Kemal Mh.
+Daire,1+1,Düz Giriş (Zemin),50 m²,8 Ekim,14.000 TL,İzmir - Buca - Atatürk Mh.
+Daire,2+1,3. Kat,80 m²,25 Eylül,25.000 TL,İzmir - Menderes - Çukuraltı Mh.
+Daire,3+1,1. Kat,130 m²,25 Eylül,16.000 TL,İzmir - Konak - Kemal Reis Mh.
+Daire,1+1,3. Kat,75 m²,21 Eylül,200 TL,İzmir - Buca - Yaylacık Mh.
+Daire,2+1,1. Kat,85 m²,9 Ekim,17.000 TL,İzmir - Aliağa - Yeni Mh.
+Daire,3+1,Yüksek giriş,160 m²,29 Eylül,14.000 TL,İzmir - Menemen - Kasımpaşa Mh.
+Daire,3+1,Yüksek giriş,117 m²,26 Eylül,14.500 TL,İzmir - Menemen - Esatpaşa Mh.
+Daire,2+1,Yüksek giriş,100 m²,25 Eylül,25.000 TL,İzmir - Karşıyaka - Bahçelievler Mh.
+Daire,1+1,Düz Giriş (Zemin),48 m²,25 Eylül,5.000 TL,İzmir - Çiğli - Güzeltepe Mh.
+Daire,3+1,4. Kat,135 m²,25 Eylül,26.000 TL,İzmir - Menemen - Esatpaşa Mh.
+Daire,3+1,2. Kat,130 m²,25 Eylül,25.000 TL,İzmir - Çiğli - Küçük Çiğli Mh.
+Daire,3+1,2. Kat,110 m²,25 Eylül,27.500 TL,İzmir - Konak - Çankaya Mh.
+Daire,3+1,2. Kat,135 m²,15 Eylül,15.000 TL,İzmir - Bergama - Maltepe Mh.
+Daire,3+1,4. Kat,135 m²,15 Eylül,12.000 TL,İzmir - Bergama - Maltepe Mh.
+Daire,2+1,Yüksek giriş,100 m²,15 Eylül,45.000 TL,İzmir - Buca - Aydoğdu Mh.
+Daire,2+0,Yüksek giriş,55 m²,23 Eylül,18.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+1,Düz Giriş (Zemin),90 m²,25 Eylül,10.000 TL,İzmir - Karabağlar - Adnan Süvari Mh.
+Daire,3+1,5. Kat,130 m²,8 Ekim,35.000 TL,İzmir - Çiğli - Ataşehir Mh.
+Daire,2+1,4. Kat,110 m²,5 Ekim,17.000 TL,İzmir - Bornova - Kızılay Mh.
+Daire,3+1,4. Kat,130 m²,5 Ekim,25.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Dağ Evi,1 Oda,,270 m²,15 Eylül,10.000 TL,İzmir - Menderes - Çakaltepe Mh.
+Daire,2+1,Kot 1 (-1). Kat,120 m²,25 Eylül,12.000 TL,İzmir - Bayraklı - Osmangazi Mh.
+Daire,2+1,4. Kat,100 m²,25 Eylül,13.000 TL,İzmir - Bornova - Eğridere Mh.
+Bina,1 Oda,,180 m²,25 Eylül,70.000 TL,İzmir - Seferihisar - Payamlı Mh.
+Daire,3+1,2. Kat,115 m²,25 Eylül,14.000 TL,İzmir - Karabağlar - Çalıkuşu Mh.
+Daire,1+1,3. Kat,50 m²,25 Eylül,24.500 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,1+1,Düz Giriş (Zemin),60 m²,25 Eylül,15.000 TL,İzmir - Menemen - 29 Ekim Mh.
+Daire,1+1,3. Kat,80 m²,25 Eylül,20.000 TL,İzmir - Bornova - Atatürk Mh.
+Daire,2+1,Düz Giriş (Zemin),95 m²,25 Eylül,16.500 TL,İzmir - Bornova - Kızılay Mh.
+Daire,3+1,4. Kat,130 m²,4 Ekim,17.000 TL,İzmir - Karabağlar - Çalıkuşu Mh.
+Villa,4+1,,310 m²,25 Eylül,80.000 TL,İzmir - Urla - İskele Mh.
+Daire,2+1,2. Kat,58 m²,25 Eylül,34.500 TL,İzmir - Urla - İskele Mh.
+Daire,3+1,2. Kat,160 m²,14 Eylül,42.000 TL,İzmir - Gaziemir - Fatih Mh.
+Daire,3+1,5. Kat,135 m²,14 Eylül,23.000 TL,İzmir - Menemen - İstiklal Mh.
+Daire,2+1,Düz Giriş (Zemin),100 m²,14 Eylül,17.000 TL,İzmir - Karabağlar - Esenlik Mh.
+Daire,3+1,4. Kat,130 m²,14 Eylül,29.000 TL,İzmir - Karabağlar - Reis Mh.
+Daire,3+1,5. Kat,110 m²,14 Eylül,20.000 TL,İzmir - Bornova - Kızılay Mh.
+Daire,2+1,6. Kat,120 m²,14 Eylül,22.500 TL,İzmir - Karabağlar - Yurdoğlu Mh.
+Daire,2+1,6. Kat,100 m²,14 Eylül,30.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,3+1,Yüksek giriş,130 m²,14 Eylül,30.000 TL,İzmir - Karabağlar - Üçkuyular Mh.
+Daire,2+1,4. Kat,110 m²,9 Ekim,25.000 TL,İzmir - Dikili - Salimbey Mh.
+Daire,2+1,Çatı katı,110 m²,9 Ekim,16.500 TL,İzmir - Dikili - İsmetpaşa Mh.
+Daire,2+1,Kot 1 (-1). Kat,75 m²,9 Ekim,16.000 TL,İzmir - Dikili - Gazipaşa Mh.
+Daire,2+1,2. Kat,100 m²,5 Ekim,35.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,3+1,Çatı katı,140 m²,9 Ekim,25.000 TL,İzmir - Dikili - Salimbey Mh.
+Daire,2+1,2. Kat,100 m²,9 Ekim,18.000 TL,İzmir - Dikili - Salimbey Mh.
+Daire,1+1,Yüksek giriş,50 m²,14 Eylül,12.500 TL,İzmir - Torbalı - Torbalı Mh.
+Daire,2+1,7. Kat,88 m²,14 Eylül,30.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,1 Oda,Düz Giriş (Zemin),45 m²,14 Eylül,8.000 TL,İzmir - Çiğli - Güzeltepe Mh.
+Daire,1+1,3. Kat,75 m²,21 Eylül,250 TL,İzmir - Buca - İnkılap Mh.
+Daire,1+1,Kot 1 (-1). Kat,85 m²,14 Eylül,17.500 TL,İzmir - Karabağlar - Arap Hasan Mh.
+Daire,3+1,8. Kat,130 m²,14 Eylül,29.000 TL,İzmir - Konak - Alsancak Mh.
+Daire,3+1,2. Kat,130 m²,14 Eylül,30.000 TL,İzmir - Konak - Barbaros Mh.
+Daire,3+1,2. Kat,120 m²,14 Eylül,18.000 TL,İzmir - Karabağlar - Esenlik Mh.
+Daire,2+1,2. Kat,100 m²,25 Eylül,15.500 TL,İzmir - Buca - Yeşilbağlar Mh.
+Daire,2+1,3. Kat,100 m²,25 Eylül,17.500 TL,İzmir - Torbalı - Torbalı Mh.
+Daire,2+1,4. Kat,105 m²,25 Eylül,20.000 TL,İzmir - Buca - Göksu Mh.
+Daire,2+1,2. Kat,117 m²,25 Eylül,14.500 TL,İzmir - Buca - Göksu Mh.
+Daire,2+1,2. Kat,110 m²,4 Ekim,17.000 TL,İzmir - Karabağlar - Bozyaka Mh.
+Villa,2+1,,95 m²,24 Eylül,25.000 TL,İzmir - Karaburun - Mordoğan Mh.
+Daire,4+1,Düz Giriş (Zemin),140 m²,27 Eylül,25.000 TL,İzmir - Bayraklı - Osmangazi Mh.
+Daire,2+1,2. Kat,94 m²,24 Eylül,30.500 TL,İzmir - Çiğli - Ataşehir Mh.
+Daire,3+1,2. Kat,110 m²,8 Ekim,24.000 TL,İzmir - Buca - Güven Mh.
+Daire,3+1,Bahçe katı,145 m²,14 Eylül,23.000 TL,İzmir - Foça - Kemal Atatürk Mh.
+Daire,3+1,4. Kat,120 m²,9 Ekim,22.000 TL,İzmir - Bornova - Yıldırım Beyazıt Mh.
+Daire,3+1,2. Kat,140 m²,22 Eylül,25.000 TL,İzmir - Karşıyaka - Bahçelievler Mh.
+Daire,3+1,3. Kat,130 m²,9 Ekim,20.000 TL,İzmir - Çiğli - Ataşehir Mh.
+Daire,3+1,4. Kat,120 m²,28 Eylül,30.000 TL,İzmir - Konak - Güzelyalı Mh.
+Daire,3+1,3. Kat,138 m²,8 Ekim,23.000 TL,İzmir - Karabağlar - Selvili Mh.
+Villa,5+1,,220 m²,26 Eylül,75.000 TL,İzmir - Urla - Güvendik Mh.
+Villa,5+1,,220 m²,14 Eylül,75.000 TL,İzmir - Urla - Güvendik Mh.
+Daire,4+1,6. Kat,170 m²,4 Ekim,25.000 TL,İzmir - Karabağlar - Vatan Mh.
+Daire,2+1,2. Kat,90 m²,16 Eylül,20.000 TL,İzmir - Bergama - Ertuğrul Mh.
+Daire,2+1,1. Kat,95 m²,14 Eylül,25.000 TL,İzmir - Karabağlar - Kazım Karabekir Mh.
+Daire,1+1,1. Kat,50 m²,16 Eylül,8.000 TL,İzmir - Bornova - Çınar Mh.
+Daire,3+1,Bahçe katı,160 m²,27 Eylül,550.000 TL,İzmir - Çeşme - Ilıca Mh.
+Çiftlik Evi,3+1,,160 m²,14 Eylül,27.000 TL,İzmir - Dikili - Esentepe Mh.
+Daire,2+1,3. Kat,110 m²,14 Eylül,30.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,3+1,2. Kat,120 m²,25 Eylül,22.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,1+1,3. Kat,75 m²,30 Eylül,250 TL,İzmir - Buca - İnkılap Mh.
+Daire,1+1,3. Kat,75 m²,9 Ekim,200 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,3+1,3. Kat,160 m²,13 Eylül,16.500 TL,İzmir - Menemen - Kasımpaşa Mh.
+Müstakil Ev,1.5+1,,85 m²,13 Eylül,25.000 TL,İzmir - Dikili - Çandarlı Mh.
+Daire,1+1,2. Kat,55 m²,9 Ekim,15.000 TL,İzmir - Menemen - Uğur Mumcu Mh.
+Daire,3+1,6. Kat,124 m²,3 Ekim,18.000 TL,İzmir - Menemen - Atatürk Mh.
+Daire,2+1,3. Kat,60 m²,13 Eylül,21.500 TL,İzmir - Menemen - İnönü Mh.
+Daire,2+1,1. Kat,110 m²,13 Eylül,23.000 TL,İzmir - Karabağlar - Refet Bele Mh.
+Daire,2+1,3. Kat,113 m²,13 Eylül,25.000 TL,İzmir - Gaziemir - Gazi Mh.
+Daire,1+1,2. Kat,49 m²,4 Ekim,16.500 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,3+1,2. Kat,120 m²,9 Ekim,17.500 TL,İzmir - Bayraklı - Emek Mh.
+Daire,3+1,5. Kat,130 m²,13 Eylül,12.000 TL,İzmir - Bergama - Maltepe Mh.
+Daire,2+1,3. Kat,110 m²,13 Eylül,24.000 TL,İzmir - Karabağlar - Refet Bele Mh.
+Daire,2+1,Çatı katı,85 m²,13 Eylül,15.000 TL,İzmir - Buca - Yiğitler Mh.
+Daire,2+1,Yüksek giriş,98 m²,7 Ekim,22.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,2+1,2. Kat,65 m²,28 Eylül,19.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,1+1,2. Kat,55 m²,13 Eylül,15.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,2+1,Bahçe katı,110 m²,4 Ekim,35.000 TL,İzmir - Menderes - Barbaros Mh.
+Daire,2+1,Yüksek giriş,95 m²,17 Eylül,25.000 TL,İzmir - Aliağa - Yeni Mh.
+Daire,2+1,Düz Giriş (Zemin),120 m²,13 Eylül,25.000 TL,İzmir - Karabağlar - Refet Bele Mh.
+Daire,3+1,2. Kat,150 m²,23 Eylül,25.000 TL,İzmir - Gaziemir - Atıfbey Mh.
+Daire,2+1,2. Kat,105 m²,9 Ekim,22.000 TL,İzmir - Buca - Yeşilbağlar Mh.
+Daire,2+1,2. Kat,105 m²,2 Ekim,18.000 TL,İzmir - Buca - Yeşilbağlar Mh.
+Daire,2+1,4. Kat,110 m²,9 Ekim,22.000 TL,İzmir - Bornova - Kızılay Mh.
+Daire,3+1,5. Kat,125 m²,1 Ekim,25.000 TL,İzmir - Konak - Güzelyalı Mh.
+Daire,2+1,3. Kat,75 m²,13 Eylül,22.000 TL,İzmir - Buca - Atatürk Mh.
+Daire,1+1,2. Kat,55 m²,13 Eylül,17.000 TL,İzmir - Buca - Atatürk Mh.
+Daire,1+1,3. Kat,55 m²,13 Eylül,17.000 TL,İzmir - Buca - Atatürk Mh.
+Daire,Stüdyo,Düz Giriş (Zemin),40 m²,8 Ekim,18.000 TL,İzmir - Bornova - Mevlana Mh.
+Daire,2+0,Yüksek giriş,65 m²,16 Eylül,17.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,1+1,8. Kat,90 m²,8 Ekim,16.000 TL,İzmir - Konak - İsmet Kaptan Mh.
+Daire,3+1,3. Kat,120 m²,9 Ekim,25.000 TL,İzmir - Konak - Zafertepe Mh.
+Daire,2+1,4. Kat,120 m²,13 Eylül,25.000 TL,İzmir - Aliağa - Yeni Mh.
+Daire,2+1,6. Kat,70 m²,16 Eylül,21.000 TL,İzmir - Karşıyaka - Alaybey Mh.
+Daire,1+1,1. Kat,160 m²,13 Eylül,13.000 TL,İzmir - Buca - İnönü Mh.
+Daire,2+0,Kot 2 (-2). Kat,90 m²,27 Eylül,19.000 TL,İzmir - Dikili - Salimbey Mh.
+Daire,3+1,8. Kat,120 m²,8 Ekim,30.000 TL,İzmir - Konak - Alsancak Mh.
+Daire,2+1,2. Kat,90 m²,5 Ekim,20.000 TL,İzmir - Foça - Mustafa Kemal Atatürk Mh.
+Daire,3+1,2. Kat,130 m²,13 Eylül,26.000 TL,İzmir - Konak - Piri Reis Mh.
+Daire,3+1,Yüksek giriş,130 m²,13 Eylül,29.000 TL,İzmir - Karabağlar - Basın Sitesi Mh.
+Daire,3+1,1. Kat,165 m²,9 Ekim,16.000 TL,İzmir - Torbalı - Özbey Mh.
+Villa,3+1,,150 m²,13 Eylül,70.000 TL,İzmir - Seferihisar - Sığacık Mh.
+Daire,1+1,1. Kat,50 m²,13 Eylül,15.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,1+1,Düz Giriş (Zemin),50 m²,13 Eylül,13.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,2+1,2. Kat,55 m²,27 Eylül,200 TL,İzmir - Buca - Adatepe Mh.
+Residence,1+1,3. Kat,75 m²,13 Eylül,200.000 TL,İzmir - Çeşme - Celal Bayar Mh.
+Residence,1+1,1. Kat,100 m²,14 Eylül,250.000 TL,İzmir - Çeşme - Celal Bayar Mh.
+Daire,4+1,5. Kat,180 m²,13 Eylül,60.000 TL,İzmir - Karşıyaka - Dedebaşı Mh.
+Daire,3+1,1. Kat,150 m²,13 Eylül,55.000 TL,İzmir - Çiğli - Ataşehir Mh.
+Villa,4+1,,170 m²,13 Eylül,45.850 TL,İzmir - Karaburun - Mordoğan Mh.
+Daire,1+1,2. Kat,55 m²,4 Ekim,20.000 TL,İzmir - Buca - Yıldız Mh.
+Daire,3+1,2. Kat,135 m²,12 Eylül,20.000 TL,İzmir - Çiğli - Evka-5 Mh.
+Daire,3+1,2. Kat,180 m²,12 Eylül,18.000 TL,İzmir - Torbalı - Ertuğrul Mh.
+Daire,2+1,4. Kat,90 m²,12 Eylül,21.000 TL,İzmir - Buca - Vali Rahmi Bey Mh.
+Villa,6+1,,320 m²,7 Ekim,130.000 TL,İzmir - Güzelbahçe - Kahramandere Mh.
+Köy Evi,3+1,,110 m²,12 Eylül,18.000 TL,İzmir - Aliağa - Çaltılıdere Mh.
+Daire,2+1,Yüksek giriş,100 m²,12 Eylül,13.000 TL,İzmir - Çiğli - Küçük Çiğli Mh.
+Daire,4+1,Bahçe dublex,220 m²,8 Ekim,50.000 TL,İzmir - Menderes - Barbaros Mh.
+Daire,2+1,3. Kat,95 m²,23 Eylül,15.500 TL,İzmir - Torbalı - Torbalı Mh.
+Daire,4+1,4. Kat,170 m²,21 Eylül,22.500 TL,İzmir - Buca - Fırat Mh.
+Daire,1+1,2. Kat,55 m²,12 Eylül,13.500 TL,İzmir - Buca - Atatürk Mh.
+Daire,Stüdyo,3. Kat,41 m²,12 Eylül,12.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,3+1,3. Kat,150 m²,12 Eylül,15.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,2+1,Yüksek giriş,90 m²,12 Eylül,20.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,1+1,Bahçe katı,80 m²,12 Eylül,25.000 TL,İzmir - Konak - Mimar Sinan Mh.
+Daire,4+1,3. Kat,140 m²,12 Eylül,26.000 TL,İzmir - Konak - Alsancak Mh.
+Daire,1+1,Yüksek giriş,70 m²,12 Eylül,20.000 TL,İzmir - Konak - Kahramanlar Mh.
+Daire,3+1,6. Kat,130 m²,12 Eylül,24.000 TL,İzmir - Konak - Mimar Sinan Mh.
+Daire,2+1,2. Kat,90 m²,12 Eylül,16.000 TL,İzmir - Konak - Alsancak Mh.
+Daire,3+1,3. Kat,135 m²,12 Eylül,25.000 TL,İzmir - Konak - Alsancak Mh.
+Daire,3+1,3. Kat,135 m²,27 Eylül,30.000 TL,İzmir - Balçova - Eğitim Mh.
+Daire,3+1,4. Kat,130 m²,12 Eylül,26.500 TL,İzmir - Konak - Alsancak Mh.
+Daire,2+1,3. Kat,60 m²,12 Eylül,26.500 TL,İzmir - Konak - Alsancak Mh.
+Daire,1+1,Bahçe katı,45 m²,17 Eylül,15.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,3+1,4. Kat,110 m²,3 Ekim,17.000 TL,İzmir - Menemen - Kasımpaşa Mh.
+Daire,1+1,3. Kat,57 m²,12 Eylül,17.500 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+1,8. Kat,150 m²,12 Eylül,18.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,1+1,Yüksek giriş,45 m²,9 Ekim,14.000 TL,İzmir - Buca - Buca Koop. Mh.
+Daire,1+1,Düz Giriş (Zemin),95 m²,7 Ekim,6.500 TL,İzmir - Karabağlar - Devrim Mh.
+Daire,3+1,4. Kat,145 m²,4 Ekim,23.000 TL,İzmir - Menderes - Kemalpaşa Mh.
+Daire,2+1,1. Kat,55 m²,28 Eylül,35.000 TL,İzmir - Dikili - Çandarlı Mh.
+Villa,3+1,,180 m²,12 Eylül,35.000 TL,İzmir - Çeşme - 16 Eylül Mh.
+Daire,3+1,2. Kat,135 m²,9 Ekim,20.000 TL,İzmir - Bornova - İnönü Mh.
+Daire,2.5+1,Bahçe katı,110 m²,12 Eylül,28.000 TL,İzmir - Konak - Barbaros Mh.
+Villa,4+2,,240 m²,25 Eylül,120.000 TL,İzmir - Güzelbahçe - Kahramandere Mh.
+Daire,3+1,2. Kat,100 m²,9 Ekim,17.500 TL,İzmir - Bornova - Atatürk Mh.
+Daire,4+1,5. Kat,240 m²,12 Eylül,99.000 TL,İzmir - Bornova - Erzene Mh.
+Daire,3+1,Yüksek giriş,110 m²,12 Eylül,20.000 TL,İzmir - Menemen - Ulus Mh.
+Daire,2+1,4. Kat,85 m²,9 Ekim,13.000 TL,İzmir - Konak - Ulubatlı Mh.
+Daire,Stüdyo,Yüksek giriş,40 m²,12 Eylül,15.000 TL,İzmir - Buca - Kozağaç Mh.
+Daire,1+1,3. Kat,65 m²,22 Eylül,12.000 TL,İzmir - Urla - Kadıovacık Mh.
+Daire,3+1,3. Kat,240 m²,12 Eylül,90.000 TL,İzmir - Bornova - Evka 3 Mh.
+Daire,3+1,3. Kat,130 m²,16 Eylül,20.000 TL,İzmir - Menemen - Kasımpaşa Mh.
+Daire,3+1,Çatı Dubleks,175 m²,12 Eylül,30.000 TL,İzmir - Balçova - Eğitim Mh.
+Daire,Stüdyo,2. Kat,55 m²,9 Ekim,17.500 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,2+1,Yüksek giriş,115 m²,12 Eylül,25.000 TL,İzmir - Urla - Altıntaş Mh.
+Villa,5+1,,265 m²,12 Eylül,60.000 TL,İzmir - Urla - Atatürk Mh.
+Daire,3+1,Yüksek giriş,120 m²,7 Ekim,25.000 TL,İzmir - Karşıyaka - Aksoy Mh.
+Daire,2+1,2. Kat,120 m²,4 Ekim,19.000 TL,İzmir - Karabağlar - Selvili Mh.
+Daire,4+1,4. Kat,130 m²,25 Eylül,23.500 TL,İzmir - Menemen - Uğur Mumcu Mh.
+Daire,3+1,3. Kat,130 m²,12 Eylül,40.000 TL,İzmir - Konak - Mimar Sinan Mh.
+Daire,2+1,1. Kat,90 m²,5 Ekim,15.000 TL,İzmir - Konak - Çankaya Mh.
+Daire,2+1,2. Kat,100 m²,12 Eylül,20.000 TL,İzmir - Karabağlar - General Kazım Özalp Mh.
+Daire,1+1,3. Kat,50 m²,12 Eylül,18.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,3+1,2. Kat,135 m²,12 Eylül,20.000 TL,İzmir - Buca - Güven Mh.
+Daire,3+1,4. Kat,140 m²,12 Eylül,18.000 TL,İzmir - Konak - Güzelyalı Mh.
+Daire,2+1,Kot 1 (-1). Kat,90 m²,12 Eylül,15.000 TL,İzmir - Dikili - Salimbey Mh.
+Daire,3+1,1. Kat,145 m²,12 Eylül,22.000 TL,İzmir - Bornova - Rafet Paşa Mh.
+Daire,2+1,7. Kat,80 m²,12 Eylül,17.500 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,3+1,4. Kat,150 m²,29 Eylül,38.000 TL,İzmir - Balçova - Teleferik Mh.
+Daire,3+1,6. Kat,120 m²,29 Eylül,35.000 TL,İzmir - Balçova - Çetin Emeç Mh.
+Daire,1+1,3. Kat,70 m²,12 Eylül,19.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,2+1,Yüksek giriş,100 m²,12 Eylül,15.000 TL,İzmir - Gaziemir - Menderes Mh.
+Daire,2+1,3. Kat,100 m²,12 Eylül,45.000 TL,İzmir - Foça - İsmetpaşa Mh.
+Daire,2+1,Bahçe katı,80 m²,12 Eylül,20.000 TL,İzmir - Menderes - Cüneytbey Mh.
+Daire,3+1,4. Kat,120 m²,2 Ekim,25.000 TL,İzmir - Karabağlar - Gülyaka Mh.
+Daire,2+1,5. Kat,110 m²,3 Ekim,24.000 TL,İzmir - Karabağlar - Kazım Karabekir Mh.
+Daire,2+1,1. Kat,100 m²,24 Eylül,15.000 TL,İzmir - Buca - Fırat Mh.
+Daire,2+1,3. Kat,100 m²,12 Eylül,25.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,1+1,2. Kat,50 m²,12 Eylül,17.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,1+1,2. Kat,75 m²,12 Eylül,16.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+1,2. Kat,145 m²,12 Eylül,27.500 TL,İzmir - Karabağlar - Reis Mh.
+Daire,3+1,1. Kat,145 m²,12 Eylül,25.000 TL,İzmir - Karabağlar - Esenyalı Mh.
+Daire,2+1,3. Kat,135 m²,12 Eylül,22.500 TL,İzmir - Karabağlar - Bahçelievler Mh.
+Daire,3+1,3. Kat,130 m²,12 Eylül,19.000 TL,İzmir - Karabağlar - Yunus Emre Mh.
+Daire,2+1,1. Kat,85 m²,12 Eylül,500.000 TL,İzmir - Çeşme - Boyalık Mh.
+Daire,1+1,2. Kat,80 m²,2 Ekim,15.000 TL,İzmir - Güzelbahçe - Yalı Mh.
+Daire,1+1,3. Kat,75 m²,30 Eylül,200 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+1,Düz Giriş (Zemin),100 m²,11 Eylül,17.000 TL,İzmir - Konak - Kocatepe Mh.
+Daire,3+1,Düz Giriş (Zemin),130 m²,3 Ekim,17.000 TL,İzmir - Buca - Adatepe Mh.
+Villa,3+1,,150 m²,30 Eylül,50.000 TL,İzmir - Çeşme - Ildır Mh.
+Daire,2+1,2. Kat,85 m²,11 Eylül,20.000 TL,İzmir - Konak - Atilla Mh.
+Daire,Stüdyo,2. Kat,33 m²,11 Eylül,17.500 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,1+1,Kot 1 (-1). Kat,75 m²,6 Ekim,25.000 TL,İzmir - Balçova - Teleferik Mh.
+Daire,2+1,2. Kat,95 m²,7 Ekim,25.000 TL,İzmir - Karabağlar - Basın Sitesi Mh.
+Daire,2+1,3. Kat,95 m²,7 Ekim,25.000 TL,İzmir - Karabağlar - Basın Sitesi Mh.
+Daire,2+1,3. Kat,100 m²,28 Eylül,25.000 TL,İzmir - Menderes - Barbaros Mh.
+Daire,2+1,1. Kat,65 m²,11 Eylül,21.000 TL,İzmir - Bornova - Mevlana Mh.
+Daire,3+1,2. Kat,140 m²,28 Eylül,25.000 TL,İzmir - Menderes - Barbaros Mh.
+Daire,2+1,2. Kat,100 m²,8 Ekim,22.000 TL,İzmir - Konak - Akın Simav Mh.
+Daire,3+1,3. Kat,130 m²,16 Eylül,40.000 TL,İzmir - Konak - Çankaya Mh.
+Daire,2+1,7. Kat,80 m²,21 Eylül,23.000 TL,İzmir - Bayraklı - Mansuroğlu Mh.
+Daire,3+1,5. Kat,130 m²,4 Ekim,24.000 TL,İzmir - Karşıyaka - Zübeyde Hanım Mh.
+Daire,2+1,1. Kat,100 m²,8 Ekim,23.000 TL,İzmir - Konak - Kahramanlar Mh.
+Daire,2+1,1. Kat,110 m²,2 Ekim,15.000 TL,İzmir - Buca - Göksu Mh.
+Villa,4+1,,330 m²,11 Eylül,125.000 TL,İzmir - Urla - Şirinkent Mh.
+Daire,3+1,1. Kat,120 m²,20 Eylül,25.000 TL,İzmir - Aliağa - Kültür Mh.
+Daire,2+1,4. Kat,110 m²,11 Eylül,16.500 TL,İzmir - Torbalı - Torbalı Mh.
+Daire,2.5+1,2. Kat,100 m²,9 Ekim,13.000 TL,İzmir - Karabağlar - Gülyaka Mh.
+Daire,1+1,2. Kat,55 m²,11 Eylül,14.000 TL,İzmir - Menemen - İnönü Mh.
+Villa,4+1,,200 m²,11 Eylül,37.500 TL,İzmir - Urla - Çamlıçay Mh.
+Daire,3+1,3. Kat,120 m²,1 Ekim,16.000 TL,İzmir - Bornova - Atatürk Mh.
+Daire,2+1,Yüksek giriş,75 m²,26 Eylül,11.500 TL,İzmir - Bayraklı - Cengizhan Mh.
+Daire,1+1,Kot 1 (-1). Kat,60 m²,26 Eylül,7.500 TL,İzmir - Bayraklı - Cengizhan Mh.
+Daire,2+1,2. Kat,85 m²,30 Eylül,28.000 TL,İzmir - Güzelbahçe - Yelki Mh.
+Daire,2+1,1. Kat,140 m²,12 Eylül,16.000 TL,İzmir - Buca - Çamlıpınar Mh.
+Daire,2+1,2. Kat,75 m²,11 Eylül,16.000 TL,İzmir - Menemen - İnönü Mh.
+Daire,3+1,1. Kat,125 m²,9 Ekim,31.000 TL,İzmir - Konak - Göztepe Mh.
+Daire,3+1,Yüksek giriş,135 m²,6 Ekim,25.000 TL,İzmir - Balçova - Korutürk Mh.
+Daire,2+1,1. Kat,90 m²,8 Ekim,18.000 TL,İzmir - Çiğli - Uğur Mumcu Mh.
+Daire,2+1,Bahçe dublex,90 m²,12 Eylül,22.000 TL,İzmir - Buca - Kozağaç Mh.
+Daire,2+1,2. Kat,118 m²,16 Eylül,30.000 TL,İzmir - Bornova - Meriç Mh.
+Daire,3+1,4. Kat,125 m²,11 Eylül,18.000 TL,İzmir - Karabağlar - Adnan Süvari Mh.
+Daire,3+1,1. Kat,95 m²,26 Eylül,28.000 TL,İzmir - Urla - Gülbahçe Mh.
+Daire,2+1,3. Kat,110 m²,11 Eylül,10.000 TL,İzmir - Karabağlar - Umut Mh.
+Daire,1+1,3. Kat,60 m²,7 Ekim,18.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,2+1,4. Kat,90 m²,11 Eylül,25.000 TL,İzmir - Buca - Çamlıkule Mh.
+Daire,3+1,2. Kat,150 m²,5 Ekim,42.000 TL,İzmir - Aliağa - Siteler Mh.
+Daire,3+1,3. Kat,135 m²,27 Eylül,18.000 TL,İzmir - Buca - İnönü Mh.
+Daire,2+1,2. Kat,55 m²,30 Eylül,600 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,2. Kat,55 m²,30 Eylül,200 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,3. Kat,60 m²,23 Eylül,250 TL,İzmir - Buca - Yaylacık Mh.
+Daire,3+1,5. Kat,140 m²,5 Ekim,39.000 TL,İzmir - Karşıyaka - Bahçelievler Mh.
+Daire,2+1,2. Kat,90 m²,18 Eylül,10.000 TL,İzmir - Karabağlar - Cennetoğlu Mh.
+Daire,2+1,2. Kat,110 m²,11 Eylül,20.000 TL,İzmir - Menemen - Esatpaşa Mh.
+Daire,1+1,4. Kat,50 m²,4 Ekim,14.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,2+1,Yüksek giriş,70 m²,4 Ekim,20.000 TL,İzmir - Buca - Yıldız Mh.
+Daire,2+1,3. Kat,92 m²,12 Eylül,12.000 TL,İzmir - Çiğli - Güzeltepe Mh.
+Daire,3+1,1. Kat,150 m²,10 Eylül,22.500 TL,İzmir - Tire - Hürriyet Mh.
+Daire,3+1,2. Kat,125 m²,10 Eylül,20.000 TL,İzmir - Çiğli - Ataşehir Mh.
+Daire,2+1,1. Kat,90 m²,8 Ekim,20.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,4+1,1. Kat,140 m²,2 Ekim,18.500 TL,İzmir - Buca - Dumlupınar Mh.
+Daire,1+1,3. Kat,60 m²,10 Eylül,21.000 TL,İzmir - Seferihisar - Hıdırlık Mh.
+Daire,3+1,1. Kat,130 m²,8 Ekim,18.000 TL,İzmir - Bergama - İslamsaray Mh.
+Daire,1+1,2. Kat,33 m²,10 Eylül,15.000 TL,İzmir - Foça - Mustafa Kemal Atatürk Mh.
+Daire,3+1,Yüksek giriş,130 m²,10 Eylül,35.000 TL,İzmir - Narlıdere - Limanreis Mh.
+Daire,3+1,5. Kat,130 m²,11 Eylül,18.000 TL,İzmir - Torbalı - Ertuğrul Mh.
+Daire,2+1,2. Kat,115 m²,5 Ekim,24.000 TL,İzmir - Karşıyaka - Aksoy Mh.
+Daire,2+1,Kot 2 (-2). Kat,85 m²,8 Ekim,17.000 TL,İzmir - Menemen - Villakent Mh.
+Daire,3+1,1. Kat,120 m²,10 Eylül,22.000 TL,İzmir - Bornova - Yeşilova Mh.
+Daire,3+1,3. Kat,150 m²,13 Eylül,16.000 TL,İzmir - Bergama - Zafer Mh.
+Daire,3+1,3. Kat,120 m²,17 Eylül,17.000 TL,İzmir - Bayraklı - Gümüşpala Mh.
+Daire,2+1,1. Kat,98 m²,10 Eylül,19.000 TL,İzmir - Menemen - Atatürk Mh.
+Daire,1+1,1. Kat,80 m²,10 Eylül,13.500 TL,İzmir - Torbalı - Muratbey Mh.
+Daire,2+1,Kot 1 (-1). Kat,110 m²,28 Eylül,30.000 TL,İzmir - Çeşme - Alaçatı Mh.
+Daire,5+1,Çatı Dubleks,130 m²,10 Eylül,25.000 TL,İzmir - Foça - Hacıveli Mh.
+Daire,2+1,2. Kat,70 m²,10 Eylül,19.000 TL,İzmir - Buca - Çamlıpınar Mh.
+Daire,2+1,Bahçe katı,80 m²,10 Eylül,17.000 TL,İzmir - Foça - Hacıveli Mh.
+Daire,5+1,Çatı Dubleks,130 m²,10 Eylül,25.000 TL,İzmir - Foça - Hacıveli Mh.
+Daire,1+1,Yüksek giriş,55 m²,10 Eylül,10.000 TL,İzmir - Urla - Kadıovacık Mh.
+Daire,1+1,1. Kat,135 m²,10 Eylül,41.000 TL,İzmir - Bornova - Erzene Mh.
+Daire,2+1,5. Kat,80 m²,10 Eylül,17.000 TL,İzmir - Karabağlar - Vatan Mh.
+Daire,3+1,6. Kat,130 m²,10 Eylül,17.000 TL,İzmir - Torbalı - Ertuğrul Mh.
+Daire,2+1,Bahçe katı,75 m²,10 Eylül,25.000 TL,İzmir - Urla - İskele Mh.
+Daire,3+1,2. Kat,158 m²,10 Eylül,50.000 TL,İzmir - Gaziemir - Fatih Mh.
+Daire,3+1,1. Kat,140 m²,10 Eylül,33.000 TL,İzmir - Gaziemir - Irmak Mh.
+Daire,3+1,7. Kat,105 m²,28 Eylül,20.000 TL,İzmir - Bornova - Evka 4 Mh.
+Daire,3+1,4. Kat,120 m²,10 Eylül,25.000 TL,İzmir - Buca - Akıncılar Mh.
+Daire,2+1,Kot 1 (-1). Kat,120 m²,10 Eylül,35.000 TL,İzmir - Dikili - Çandarlı Mh.
+Daire,3+1,4. Kat,110 m²,10 Eylül,20.000 TL,İzmir - Karşıyaka - Aksoy Mh.
+Daire,1+1,2. Kat,52 m²,10 Eylül,14.000 TL,İzmir - Menemen - İnönü Mh.
+Daire,2+1,5. Kat,80 m²,10 Eylül,22.000 TL,İzmir - Bornova - Barbaros Mh.
+Daire,1+1,5. Kat,50 m²,10 Eylül,20.000 TL,İzmir - Bornova - Çınar Mh.
+Daire,3+1,1. Kat,115 m²,10 Eylül,11.500 TL,İzmir - Karabağlar - Yurdoğlu Mh.
+Daire,2+1,2. Kat,55 m²,21 Eylül,300 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+1,2. Kat,140 m²,23 Eylül,23.000 TL,İzmir - Karabağlar - Selvili Mh.
+Daire,1+1,Kot 1 (-1). Kat,80 m²,10 Eylül,13.000 TL,İzmir - Bergama - Fatih Mh.
+Daire,2+1,2. Kat,95 m²,10 Eylül,20.000 TL,İzmir - Foça - Mustafa Kemal Atatürk Mh.
+Daire,2+1,2. Kat,95 m²,10 Eylül,20.000 TL,İzmir - Buca - Fırat Mh.
+Villa,3+1,,200 m²,10 Eylül,37.500 TL,İzmir - Menderes - Çukuraltı Mh.
+Daire,3+1,2. Kat,135 m²,27 Eylül,18.200 TL,İzmir - Torbalı - Ayrancılar Mh.
+Daire,4+1,15. Kat,220 m²,7 Ekim,66.000 TL,İzmir - Bornova - Yeşilova Mh.
+Daire,3+1,3. Kat,140 m²,4 Ekim,25.000 TL,İzmir - Seferihisar - Sığacık Mh.
+Daire,3+1,Yüksek giriş,130 m²,10 Eylül,17.500 TL,İzmir - Torbalı - Tepeköy Mh.
+Daire,2+1,4. Kat,110 m²,9 Eylül,15.000 TL,İzmir - Buca - Kozağaç Mh.
+Daire,4+1,3. Kat,180 m²,4 Ekim,60.000 TL,İzmir - Menderes - Görece Cumhuriyet Mh.
+Daire,3+1,3. Kat,165 m²,4 Ekim,25.000 TL,İzmir - Menderes - Kemalpaşa Mh.
+Daire,2+1,3. Kat,70 m²,4 Ekim,21.500 TL,İzmir - Menderes - Cüneytbey Mh.
+Daire,1+1,Kot 2 (-2). Kat,50 m²,4 Ekim,16.500 TL,İzmir - Menderes - Cüneytbey Mh.
+Daire,1+1,2. Kat,65 m²,10 Eylül,15.500 TL,İzmir - Menemen - Gölcük Mh.
+Daire,1+1,Yüksek giriş,80 m²,26 Eylül,10.000 TL,İzmir - Gaziemir - Aktepe Mh.
+Daire,2+1,Yüksek giriş,100 m²,9 Ekim,16.000 TL,İzmir - Karabağlar - Sarıyer Mh.
+Daire,2+1,2. Kat,75 m²,9 Eylül,20.000 TL,İzmir - Karabağlar - Bozyaka Mh.
+Daire,3+1,3. Kat,120 m²,2 Ekim,38.000 TL,İzmir - Karabağlar - Bahçelievler Mh.
+Daire,2+1,3. Kat,95 m²,9 Eylül,20.000 TL,İzmir - Konak - Atilla Mh.
+Daire,3+1,2. Kat,140 m²,9 Eylül,30.000 TL,İzmir - Karabağlar - Esenyalı Mh.
+Daire,1+1,3. Kat,65 m²,25 Eylül,17.000 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,1+1,Bahçe katı,55 m²,9 Eylül,15.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,Düz Giriş (Zemin),80 m²,26 Eylül,16.000 TL,İzmir - Bornova - Evka 4 Mh.
+Daire,2+1,1. Kat,85 m²,9 Eylül,20.000 TL,İzmir - Karabağlar - Muammer Akar Mh.
+Daire,2+1,1. Kat,65 m²,26 Eylül,17.500 TL,İzmir - Buca - Adatepe Mh.
+Daire,1+1,2. Kat,60 m²,2 Ekim,17.000 TL,İzmir - Çiğli - Uğur Mumcu Mh.
+Daire,2+1,3. Kat,85 m²,9 Eylül,30.000 TL,İzmir - Menderes - Çukuraltı Mh.
+Daire,3+1,4. Kat,120 m²,8 Ekim,20.000 TL,İzmir - Çiğli - Cumhuriyet Mh.
+Daire,2+2,5. Kat,150 m²,9 Eylül,25.000 TL,İzmir - Konak - Murat Reis Mh.
+Daire,2+1,Yüksek giriş,120 m²,26 Eylül,18.000 TL,İzmir - Torbalı - Muratbey Mh.
+Daire,2+1,2. Kat,116 m²,5 Ekim,19.000 TL,İzmir - Bergama - Gaziosmanpaşa Mh.
+Daire,3+1,3. Kat,110 m²,9 Eylül,25.000 TL,İzmir - Konak - Göztepe Mh.
+Daire,2+1,Yüksek giriş,100 m²,9 Eylül,22.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,3+1,4. Kat,165 m²,18 Eylül,25.000 TL,İzmir - Buca - Güven Mh.
+Daire,3+1,3. Kat,130 m²,9 Eylül,20.000 TL,İzmir - Menderes - Kasımpaşa Mh.
+Daire,1.5+1,Kot 1 (-1). Kat,70 m²,9 Eylül,16.500 TL,İzmir - Buca - Yaylacık Mh.
+Daire,3+1,3. Kat,120 m²,9 Eylül,18.000 TL,İzmir - Çiğli - Küçük Çiğli Mh.
+Daire,2+1,3. Kat,100 m²,9 Eylül,10.000 TL,İzmir - Menemen - Atatürk Mh.
+Daire,2+1,Yüksek giriş,95 m²,9 Eylül,14.000 TL,İzmir - Menemen - Irmak Mh.
+Daire,3+1,6. Kat,120 m²,9 Eylül,18.500 TL,İzmir - Menemen - Atatürk Mh.
+Daire,1+1,3. Kat,75 m²,9 Ekim,150 TL,İzmir - Buca - İnkılap Mh.
+Daire,1+1,3. Kat,75 m²,1 Ekim,300 TL,İzmir - Buca - Yaylacık Mh.
+Daire,2+1,2. Kat,65 m²,9 Eylül,18.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,2+1,2. Kat,75 m²,8 Eylül,20.000 TL,İzmir - Buca - Dumlupınar Mh.
+Daire,3+1,8. Kat,140 m²,9 Eylül,24.000 TL,İzmir - Buca - Atatürk Mh.
+Daire,1+1,4. Kat,55 m²,8 Eylül,19.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,3+1,1. Kat,135 m²,8 Eylül,40.000 TL,İzmir - Karşıyaka - Yalı Mh.
+Daire,1+1,3. Kat,65 m²,5 Ekim,15.000 TL,İzmir - Bornova - Mevlana Mh.
+Daire,2+1,Düz Giriş (Zemin),70 m²,5 Ekim,15.000 TL,İzmir - Bornova - Erzene Mh.
+Daire,1+1,1. Kat,70 m²,5 Ekim,15.000 TL,İzmir - Bornova - İnönü Mh.
+Daire,2+1,5. Kat,160 m²,21 Eylül,20.000 TL,İzmir - Bornova - Ümit Mh.
+Daire,2+1,Düz Giriş (Zemin),90 m²,8 Eylül,25.000 TL,İzmir - Karabağlar - Gülyaka Mh.
+Daire,1+1,4. Kat,100 m²,8 Eylül,11.000 TL,İzmir - Karabağlar - Bahçelievler Mh.
+Daire,3+1,4. Kat,175 m²,8 Ekim,20.000 TL,İzmir - Bergama - Fatih Mh.
+Daire,3+1,2. Kat,130 m²,9 Ekim,21.500 TL,İzmir - Menderes - Mithatpaşa Mh.
+Daire,7+1,Bahçe dublex,300 m²,9 Ekim,55.000 TL,İzmir - Menderes - Barbaros Mh.
+Daire,2+1,1. Kat,150 m²,8 Eylül,18.000 TL,İzmir - Buca - Çamlıkule Mh.
+Daire,1+1,1. Kat,50 m²,8 Eylül,17.500 TL,İzmir - Buca - Çamlıkule Mh.
+Daire,2+1,Düz Giriş (Zemin),100 m²,8 Eylül,15.000 TL,İzmir - Buca - Çamlıkule Mh.
+Daire,1+1,Yüksek giriş,45 m²,8 Ekim,15.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,2. Kat,130 m²,8 Eylül,18.000 TL,İzmir - Karabağlar - Selvili Mh.
+Daire,1+1,2. Kat,55 m²,9 Ekim,22.000 TL,İzmir - Bornova - Mevlana Mh.
+Daire,3+1,9. Kat,125 m²,25 Eylül,22.000 TL,İzmir - Menemen - 30 Ağustos Mh.
+Daire,1+1,2. Kat,85 m²,8 Eylül,23.000 TL,İzmir - Çeşme - 16 Eylül Mh.
+Daire,3+1,2. Kat,140 m²,8 Eylül,25.000 TL,İzmir - Çiğli - İnönü Mh.
+Daire,3+1,4. Kat,144 m²,3 Ekim,18.500 TL,İzmir - Menemen - Atatürk Mh.
+Daire,3+1,3. Kat,140 m²,8 Eylül,20.000 TL,İzmir - Buca - Atatürk Mh.
+Daire,3+1,Yüksek giriş,115 m²,16 Eylül,18.000 TL,İzmir - Bornova - Atatürk Mh.
+Daire,2+1,Yüksek giriş,95 m²,7 Eylül,15.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,1+1,Yüksek giriş,48 m²,7 Eylül,5.000 TL,İzmir - Çiğli - Güzeltepe Mh.
+Daire,2+1,Yüksek giriş,95 m²,7 Eylül,13.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,3+1,1. Kat,200 m²,16 Eylül,37.000 TL,İzmir - Karşıyaka - Tersane Mh.
+Daire,1+1,3. Kat,75 m²,20 Eylül,450 TL,İzmir - Buca - İnkılap Mh.
+Daire,2+1,Düz Giriş (Zemin),90 m²,16 Eylül,12.000 TL,İzmir - Bornova - Çınar Mh.
+Villa,3+1,,320 m²,27 Eylül,30.000 TL,İzmir - Çeşme - Ilıca Mh.
+Daire,1+1,2. Kat,100 m²,10 Eylül,35.000 TL,İzmir - Urla - Denizli Mh.
+Daire,2+1,1. Kat,95 m²,7 Eylül,13.000 TL,İzmir - Buca - İnönü Mh.
+Daire,1+1,2. Kat,45 m²,25 Eylül,15.000 TL,İzmir - Buca - Menderes Mh.
+Daire,3+1,4. Kat,170 m²,25 Eylül,25.000 TL,İzmir - Buca - Dumlupınar Mh.
+Daire,2+1,Müstakil,100 m²,25 Eylül,22.000 TL,İzmir - Buca - Vali Rahmi Bey Mh.
+Daire,2+1,3. Kat,90 m²,8 Eylül,15.000 TL,İzmir - Torbalı - Torbalı Mh.
+Daire,1+1,1. Kat,45 m²,21 Eylül,16.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,3+1,4. Kat,135 m²,7 Eylül,26.000 TL,İzmir - Menemen - Esatpaşa Mh.
+Villa,3+1,,150 m²,9 Ekim,60.000 TL,İzmir - Urla - Kalabak Mh.
+Daire,3+1,3. Kat,130 m²,16 Eylül,34.000 TL,İzmir - Karabağlar - Basın Sitesi Mh.
+Daire,3+1,Bahçe katı,120 m²,3 Ekim,21.000 TL,İzmir - Seferihisar - Çolak İbrahim Bey Mh.
+Daire,1+1,3. Kat,70 m²,8 Eylül,15.500 TL,İzmir - Seferihisar - Çolak İbrahim Bey Mh.
+Daire,2+1,1. Kat,80 m²,12 Eylül,15.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,8. Kat,90 m²,8 Eylül,25.000 TL,İzmir - Karşıyaka - İmbatlı Mh.
+Daire,3+1,5. Kat,135 m²,8 Eylül,21.000 TL,İzmir - Bayraklı - Postacılar Mh.
+Daire,2+0,Yüksek giriş,65 m²,7 Eylül,35.000 TL,İzmir - Urla - Kalabak Mh.
+Daire,2+1,Kot 2 (-2). Kat,85 m²,8 Ekim,18.000 TL,İzmir - Bayraklı - Gümüşpala Mh.
+Daire,1+1,Yüksek giriş,50 m²,7 Eylül,22.500 TL,İzmir - Urla - Kalabak Mh.
+Daire,3+1,2. Kat,130 m²,8 Ekim,25.000 TL,İzmir - Balçova - Teleferik Mh.
+Daire,1+1,Kot 2 (-2). Kat,55 m²,8 Ekim,15.000 TL,İzmir - Çiğli - Ahmet Efendi Mh.
+Daire,3+1,11. Kat,141 m²,9 Ekim,48.000 TL,İzmir - Narlıdere - Ilıca Mh.
+Daire,2+1,5. Kat,75 m²,7 Eylül,18.000 TL,İzmir - Buca - Çağdaş Mh.
+Daire,1+1,2. Kat,55 m²,23 Eylül,17.500 TL,İzmir - Seferihisar - Hıdırlık Mh.
+Müstakil Ev,3+1,,110 m²,5 Ekim,25.000 TL,İzmir - Buca - Murathan Mh.
+Daire,2+1,2. Kat,115 m²,3 Ekim,23.000 TL,İzmir - Dikili - Gazipaşa Mh.
+Daire,1+1,2. Kat,55 m²,8 Eylül,16.000 TL,İzmir - Buca - Atatürk Mh.
+Daire,3+1,3. Kat,120 m²,8 Eylül,25.000 TL,İzmir - Buca - Kozağaç Mh.
+Daire,2+1,Düz Giriş (Zemin),100 m²,8 Eylül,20.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,2+1,2. Kat,95 m²,8 Eylül,18.000 TL,İzmir - Buca - Mustafa Kemal Mh.
+Daire,2+0,Düz Giriş (Zemin),50 m²,9 Ekim,13.000 TL,İzmir - Buca - Kozağaç Mh.
+Daire,1+1,3. Kat,50 m²,3 Ekim,18.000 TL,İzmir - Bornova - Atatürk Mh.
+Daire,2+1,Yüksek giriş,100 m²,12 Eylül,18.000 TL,İzmir - Menemen - Esatpaşa Mh.
+Daire,2+1,2. Kat,110 m²,7 Eylül,10.000 TL,İzmir - Karabağlar - Selvili Mh.
+Daire,2+1,3. Kat,120 m²,7 Eylül,13.000 TL,İzmir - Karabağlar - Selvili Mh.
+Daire,3+1,6. Kat,120 m²,6 Ekim,20.000 TL,İzmir - Balçova - Teleferik Mh.
+Daire,3+1,2. Kat,125 m²,8 Eylül,26.000 TL,İzmir - Karabağlar - Üçkuyular Mh.
+Daire,3+1,4. Kat,105 m²,6 Ekim,27.500 TL,İzmir - Balçova - Teleferik Mh.
+Daire,2+1,3. Kat,70 m²,17 Eylül,23.000 TL,İzmir - Çiğli - Küçük Çiğli Mh.
+Daire,1+1,Kot 1 (-1). Kat,55 m²,10 Eylül,10.000 TL,İzmir - Bayraklı - Osmangazi Mh.
+Daire,2+1,Bahçe katı,115 m²,6 Ekim,45.000 TL,İzmir - Çiğli - Ataşehir Mh.
+Daire,2+0,Düz Giriş (Zemin),75 m²,9 Ekim,13.000 TL,İzmir - Buca - Kozağaç Mh.
+Daire,2+1,2. Kat,100 m²,9 Eylül,27.000 TL,İzmir - Karabağlar - Bahçelievler Mh.
+Daire,2+1,1. Kat,90 m²,7 Eylül,150.000 TL,İzmir - Çeşme - Ilıca Mh.
+Daire,1+1,6. Kat,50 m²,7 Eylül,22.000 TL,İzmir - Çiğli - Esentepe Mh.
+Daire,2+1,3. Kat,70 m²,7 Eylül,13.500 TL,İzmir - Menemen - Gazi Mh.
+Daire,1+1,2. Kat,50 m²,7 Eylül,11.000 TL,İzmir - Menemen - Gazi Mh.
+Daire,1+1,2. Kat,70 m²,7 Eylül,35.500 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,1+1,Yüksek giriş,80 m²,10 Eylül,23.000 TL,İzmir - Kemalpaşa - Ören 75.yıl Cumhuriyet Mh.
+Daire,1+1,4. Kat,70 m²,7 Eylül,17.000 TL,İzmir - Kemalpaşa - Ören 75.yıl Cumhuriyet Mh.
+Daire,2+1,Düz Giriş (Zemin),90 m²,7 Eylül,18.000 TL,İzmir - Bayraklı - Mansuroğlu Mh.
+Daire,1+1,1. Kat,45 m²,7 Eylül,15.500 TL,İzmir - Menemen - 85. Yıl Cumhuriyet Mh.
+Daire,2+1,3. Kat,110 m²,7 Eylül,13.000 TL,İzmir - Bergama - İnkılap Mh.
+Villa,3+1,,140 m²,7 Eylül,65.000 TL,İzmir - Çeşme - Reisdere Mh.
+Daire,1+1,2. Kat,55 m²,7 Eylül,23.000 TL,İzmir - Bornova - Mevlana Mh.
+Daire,1+1,3. Kat,75 m²,20 Eylül,450 TL,İzmir - Buca - İnkılap Mh.
+Daire,3+1,11. Kat,145 m²,7 Eylül,48.000 TL,İzmir - Narlıdere - Ilıca Mh.
+Daire,4+1,2. Kat,130 m²,6 Eylül,22.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,3+1,5. Kat,122 m²,6 Eylül,25.000 TL,İzmir - Buca - Atatürk Mh.
+Daire,3+1,2. Kat,140 m²,6 Eylül,25.000 TL,İzmir - Menderes - Barbaros Mh.
+Daire,1+1,3. Kat,50 m²,6 Eylül,16.500 TL,İzmir - Buca - Kuruçeşme Mh.
+Daire,1+1,2. Kat,50 m²,6 Eylül,15.500 TL,İzmir - Buca - Atatürk Mh.
+Daire,3+1,4. Kat,160 m²,6 Eylül,25.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,3+0,3. Kat,122 m²,6 Eylül,12.000 TL,İzmir - Çiğli - Şirintepe Mh.
+Daire,3+1,4. Kat,120 m²,6 Eylül,30.000 TL,İzmir - Bornova - Evka 3 Mh.
+Daire,3+1,Bahçe katı,105 m²,7 Eylül,15.000 TL,İzmir - Konak - Kahramanlar Mh.
+Daire,3+1,3. Kat,175 m²,6 Eylül,20.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,1 Oda,Düz Giriş (Zemin),110 m²,8 Ekim,23.000 TL,İzmir - Buca - Göksu Mh.
+Daire,3+1,5. Kat,135 m²,21 Eylül,20.000 TL,İzmir - Buca - Yıldız Mh.
+Daire,1+1,2. Kat,55 m²,6 Eylül,12.500 TL,İzmir - Menemen - 85. Yıl Cumhuriyet Mh.
+Daire,1+1,2. Kat,45 m²,9 Ekim,15.000 TL,İzmir - Buca - Yaylacık Mh.
+Daire,3+1,2. Kat,120 m²,6 Eylül,20.000 TL,İzmir - Buca - Göksu Mh.
+Daire,1+1,Kot 2 (-2). Kat,65 m²,6 Eylül,13.000 TL,İzmir - Buca - Adatepe Mh.
+Daire,1+1,Yüksek giriş,65 m²,6 Eylül,18.500 TL,İzmir - Buca - Çamlıkule Mh.
+Daire,3+1,6. Kat,140 m²,6 Eylül,40.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,1+1,4. Kat,65 m²,6 Eylül,33.000 TL,İzmir - Bornova - Kazımdirik Mh.
+Daire,3+1,Düz Giriş (Zemin),130 m²,6 Eylül,25.000 TL,İzmir - Buca - Atatürk Mh.
+Daire,1+1,1. Kat,49 m²,18 Eylül,16.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,2+1,Kot 2 (-2). Kat,80 m²,29 Eylül,18.000 TL,İzmir - Balçova - Eğitim Mh.
+Daire,2+1,3. Kat,85 m²,6 Eylül,25.000 TL,İzmir - Konak - Kılıç Reis Mh.
+Daire,2+1,2. Kat,120 m²,6 Eylül,25.000 TL,İzmir - Buca - Vali Rahmi Bey Mh.
+Daire,3+1,4. Kat,150 m²,6 Eylül,17.000 TL,İzmir - Torbalı - Torbalı Mh.
+Daire,3+1,Yüksek giriş,145 m²,7 Eylül,13.000 TL,İzmir - Torbalı - Torbalı Mh.
+Daire,1+1,1. Kat,47 m²,18 Eylül,15.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,1+1,3. Kat,75 m²,6 Eylül,22.000 TL,İzmir - Karabağlar - Adnan Süvari Mh.
+Daire,2+1,3. Kat,100 m²,28 Eylül,20.000 TL,İzmir - Karabağlar - Gülyaka Mh.
+Daire,3+1,Yüksek giriş,120 m²,1 Ekim,23.000 TL,İzmir - Bornova - Kızılay Mh.
+Daire,1+1,Bahçe katı,95 m²,6 Eylül,18.000 TL,İzmir - Seferihisar - Mersin Alanı Mh.
+Daire,1+1,3. Kat,55 m²,7 Ekim,20.000 TL,İzmir - Buca - Yıldız Mh.
+Daire,1+1,4. Kat,50 m²,6 Eylül,27.500 TL,İzmir - Bornova - Erzene Mh.
+Daire,2+1,3. Kat,110 m²,6 Eylül,21.500 TL,İzmir - Bornova - Atatürk Mh.
+Daire,2+1,3. Kat,120 m²,6 Eylül,35.000 TL,İzmir - Balçova - Çetin Emeç Mh.
+Daire,1+1,Yüksek giriş,44 m²,18 Eylül,14.000 TL,İzmir - Çiğli - Balatçık Mh.
+Daire,3+1,1. Kat,140 m²,6 Eylül,25.000 TL,İzmir - Buca - Atatürk Mh.
+Daire,4+1,3. Kat,160 m²,6 Eylül,23.000 TL,İzmir - Buca - Mustafa Kemal Mh.
+Daire,2+1,5. Kat,110 m²,6 Eylül,14.500 TL,İzmir - Çiğli - Ataşehir Mh.
+Daire,3+1,6. Kat,170 m²,7 Ekim,50.000 TL,İzmir - Bayraklı - Mansuroğlu Mh.
+Daire,3+1,5. Kat,145 m²,6 Eylül,28.000 TL,İzmir - Bayraklı - Manavkuyu Mh.
+Daire,4.5+1,3. Kat,200 m²,6 Eylül,75.000 TL,İzmir - Konak - Alsancak Mh.
+Daire,2+1,Çatı katı,130 m²,6 Eylül,25.000 TL,İzmir - Urla - Zeytinalanı Mh.
+Daire,3+1,2. Kat,130 m²,6 Eylül,35.000 TL,İzmir - Urla - Zeytinalanı Mh.
+Daire,3+1,2. Kat,130 m²,20 Eylül,30.000 TL,İzmir - Karşıyaka - Zübeyde Hanım Mh.
+Daire,3+1,2. Kat,135 m²,20 Eylül,30.000 TL,İzmir - Bayraklı - Soğukkuyu Mh.
+Müstakil Ev,2+1,,85 m²,20 Eylül,13.000 TL,İzmir - Bayraklı - Emek Mh.
+Daire,1+1,2. Kat,50 m²,20 Eylül,11.000 TL,İzmir - Menemen - İnönü Mh.
+Daire,3+1,7. Kat,135 m²,21 Eylül,36.000 TL,İzmir - Karşıyaka - Demirköprü Mh.
+Daire,3+1,1. Kat,127 m²,8 Ekim,17.500 TL,İzmir - Menemen - 30 Ağustos Mh.
+Daire,1+1,4. Kat,70 m²,7 Ekim,25.000 TL,İzmir - Narlıdere - Narlı Mh.
+Daire,2+1,Düz Giriş (Zemin),80 m²,12 Eylül,12.000 TL,İzmir - Karabağlar - Ali Fuat Cebesoy Mh.
+Daire,3+1,2. Kat,130 m²,5 Eylül,25.000 TL,İzmir - Çiğli - Küçük Çiğli Mh.
+Daire,2+1,3. Kat,105 m²,5 Eylül,14.000 TL,İzmir - Menemen - Gölcük Mh.
+Daire,1+1,1. Kat,65 m²,30 Eylül,15.000 TL,İzmir - Buca - Yıldız Mh.
+Daire,2+1,2. Kat,100 m²,20 Eylül,20.000 TL,İzmir - Konak - Çankaya Mh.
+Daire,3+1,Yüksek giriş,140 m²,12 Eylül,27.000 TL,İzmir - Karşıyaka - Dedebaşı Mh.
+Daire,2+1,Kot 2 (-2). Kat,85 m²,7 Ekim,15.000 TL,İzmir - Aliağa - Yeni Mh.
+Daire,2+1,2. Kat,100 m²,5 Eylül,60.000 TL,İzmir - Narlıdere - Limanreis Mh.
+Daire,3+1,7. Kat,130 m²,5 Eylül,22.000 TL,İzmir - Konak - Piri Reis Mh.
